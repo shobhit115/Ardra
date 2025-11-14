@@ -1,4 +1,4 @@
-# PLANETMANDI
+# ARDRA
 
 ## 🌌 Project Overview
 
