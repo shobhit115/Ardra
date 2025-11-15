@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All Planets - PlanetMandi</title>
+  <link rel="stylesheet" href="css/style.css">
+  <link rel="stylesheet" href="css/products.css">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&family=Orbitron:wght@700&display=swap" rel="stylesheet">
+</head>
+<body>
+  <nav id="navbar"></nav>
+    <canvas id="particle-canvas"></canvas>
+  <main>
+    <h1>Explore Celestial Bodies</h1>
+    
+    <div class="controls-container">
+      <div class="filter-section">
+        <label>Filter by Tags:</label>
+        <div id="tag-filters"></div>
+      </div>
+      
+      <div class="sort-section">
+        <label for="sort">Sort by:</label>
+        <select id="sort">
+          <option value="name">Name (A-Z)</option>
+          <option value="price-low">Price (Low to High)</option>
+          <option value="price-high">Price (High to Low)</option>
+          <option value="distance">Distance (Light Years)</option>
+        </select>
+      </div>
+      
+      <div class="view-toggle">
+        <button id="grid-view" class="active">Grid</button>
+        <button id="list-view">List</button>
+      </div>
+    </div>
+
+    <div id="results-count"></div>
+    <div id="products-grid" class="grid-layout"></div>
+  </main>
+
+  <footer id="footer"></footer>
+  <script src="js/products.js"></script>
+  <script src="js/landing-effects.js"></script>
+</body>
+</html>

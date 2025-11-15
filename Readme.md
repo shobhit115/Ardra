@@ -85,14 +85,15 @@
 - Final integration will be tested by combining all three modules.
 
 ```css
-PlanetMandi/
+ARDRA/
 │
 ├── index.html              → Landing page (Anish)
 ├── products.html           → Product listing page (Rohit)
 ├── details.html            → Product details page (You)
 │
 ├── /assets/
-│   ├── /images/            → Planet & moon images
+│   ├── /generated_images/            → Planet & moon images
+│   ├── /planet_photos/
 │   └── logo.png            → Site logo
 │
 ├── /css/
@@ -106,7 +107,7 @@ PlanetMandi/
 │   ├── products.js         → For product grid & filtering (Rohit)
 │   └── details.js          → For product info loading (You)
 │
-└── data.js                 → Shared data file (planet info, prices, etc.)
+└── planets.js                 → Shared data file (planet info, prices, etc.)
 ```
 
 # 🎨 Design Guidelines

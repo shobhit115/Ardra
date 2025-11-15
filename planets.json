@@ -13,7 +13,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Jupiter.webp",
+        "photo": "assets\\planet_photos\\Jupiter.webp",
         "description": "Jupiter is a planet in our Solar System. located approximately 8.8e-05 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.0 times that of Jupiter and a radius 1.0 times that of Jupiter. It has an orbital period of 4331.0 Earth days. It orbits its host star at a distance of 5.204 AU. The planet has an estimated surface temperature of 165.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -30,7 +30,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Saturn.webp",
+        "photo": "assets\\planet_photos\\Saturn.webp",
         "description": "Saturn is a planet in our Solar System. located approximately 0.00017 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.299 times that of Jupiter and a radius 0.843 times that of Jupiter. It has an orbital period of 10747.0 Earth days. It orbits its host star at a distance of 9.537 AU. The planet has an estimated surface temperature of 134.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -47,7 +47,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Neptune.webp",
+        "photo": "assets\\planet_photos\\Neptune.webp",
         "description": "Neptune is a planet in our Solar System. located approximately 0.000478 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0537 times that of Jupiter and a radius 0.346 times that of Jupiter. It has an orbital period of 59800.0 Earth days. It orbits its host star at a distance of 30.07 AU. The planet has an estimated surface temperature of 72.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -64,7 +64,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Uranus.webp",
+        "photo": "assets\\planet_photos\\Uranus.webp",
         "description": "Uranus is a planet in our Solar System. located approximately 0.000304 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0457 times that of Jupiter and a radius 0.358 times that of Jupiter. It has an orbital period of 30589.0 Earth days. It orbits its host star at a distance of 19.191 AU. The planet has an estimated surface temperature of 76.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -81,7 +81,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Earth.webp",
+        "photo": "assets\\planet_photos\\Earth.webp",
         "description": "Earth is a planet in our Solar System.. It is classified as a 'Super-Earth', with a mass 0.00315 times that of Jupiter and a radius 0.0892 times that of Jupiter. It has an orbital period of 365.2 Earth days. It orbits its host star at a distance of 1.0 AU. The planet has an estimated surface temperature of 288.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -98,7 +98,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Venus.webp",
+        "photo": "assets\\planet_photos\\Venus.webp",
         "description": "Venus is a planet in our Solar System. located approximately 4e-06 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.00257 times that of Jupiter and a radius 0.0847 times that of Jupiter. It has an orbital period of 224.7 Earth days. It orbits its host star at a distance of 0.723332 AU. The planet has an estimated surface temperature of 737.0 K."
     },
     {
@@ -115,7 +115,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Mars.webp",
+        "photo": "assets\\planet_photos\\Mars.webp",
         "description": "Mars is a planet in our Solar System. located approximately 3.7e-05 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.000338 times that of Jupiter and a radius 0.0488 times that of Jupiter. It has an orbital period of 687.0 Earth days. It orbits its host star at a distance of 1.542 AU. The planet has an estimated surface temperature of 210.0 K."
     },
     {
@@ -132,7 +132,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Mercury.webp",
+        "photo": "assets\\planet_photos\\Mercury.webp",
         "description": "Mercury is a planet in our Solar System. located approximately 1.1e-05 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.000174 times that of Jupiter and a radius 0.0341 times that of Jupiter. It has an orbital period of 88.0 Earth days. It orbits its host star at a distance of 0.387098 AU. The planet has an estimated surface temperature of 400.0 K."
     },
     {
@@ -149,7 +149,7 @@
         "tags": [
             "solar_system_planet"
         ],
-        "photo": "src\\planet_photos\\Pluto.webp",
+        "photo": "assets\\planet_photos\\Pluto.webp",
         "description": "Pluto is a planet in our Solar System. located approximately 0.000559 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 7e-06 times that of Jupiter and a radius 0.0166 times that of Jupiter. It has an orbital period of 90560.0 Earth days. It orbits its host star at a distance of 39.48 AU. The planet has an estimated surface temperature of 44.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -166,7 +166,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Proxima Centauri b.png",
+        "photo": "assets\\generated_images\\Proxima Centauri b.png",
         "description": "Proxima Centauri b is an exoplanet located approximately 4.2 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.004 times that of Jupiter. It has an orbital period of 11.186 Earth days. It orbits its host star at a distance of 0.0485 AU."
     },
     {
@@ -183,7 +183,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Proxima Centauri c.png",
+        "photo": "assets\\generated_images\\Proxima Centauri c.png",
         "description": "Proxima Centauri c is an exoplanet located approximately 4.244 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0179 times that of Jupiter. It has an orbital period of 1928.0 Earth days. It orbits its host star at a distance of 1.489 AU. The planet has an estimated surface temperature of 39.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -200,7 +200,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Barnard's Star b.png",
+        "photo": "assets\\generated_images\\Barnard's Star b.png",
         "description": "Barnard's Star b is an exoplanet located approximately 6.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0102 times that of Jupiter and a radius 0.122 times that of Jupiter. It has an orbital period of 232.8 Earth days. It orbits its host star at a distance of 0.404 AU. The planet has an estimated surface temperature of 105.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -217,7 +217,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 411 b.png",
+        "photo": "assets\\generated_images\\Gliese 411 b.png",
         "description": "Gliese 411 b is an exoplanet located approximately 8.284 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00941 times that of Jupiter. It has an orbital period of 12.9532 Earth days. The planet has an estimated surface temperature of 349.83 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -234,7 +234,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Lalande 21185 c.png",
+        "photo": "assets\\generated_images\\Lalande 21185 c.png",
         "description": "Lalande 21185 c is an exoplanet located approximately 8.31 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0568 times that of Jupiter. It has an orbital period of 3190.0 Earth days. It orbits its host star at a distance of 3.1 AU."
     },
     {
@@ -251,7 +251,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Epsilon Eridani b.png",
+        "photo": "assets\\generated_images\\Epsilon Eridani b.png",
         "description": "Epsilon Eridani b is an exoplanet located approximately 10.47 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.55 times that of Jupiter. It has an orbital period of 2502.0 Earth days. It orbits its host star at a distance of 3.39 AU."
     },
     {
@@ -268,7 +268,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Lacaille 9352 b.png",
+        "photo": "assets\\generated_images\\Lacaille 9352 b.png",
         "description": "Lacaille 9352 b is an exoplanet located approximately 10.721 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0132 times that of Jupiter. It has an orbital period of 9.262 Earth days. It orbits its host star at a distance of 0.068 AU. The planet has an estimated surface temperature of 468.0 K."
     },
     {
@@ -285,7 +285,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Lacaille 9352 c.png",
+        "photo": "assets\\generated_images\\Lacaille 9352 c.png",
         "description": "Lacaille 9352 c is an exoplanet located approximately 10.721 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0234 times that of Jupiter. It has an orbital period of 21.789 Earth days. It orbits its host star at a distance of 0.12 AU. The planet has an estimated surface temperature of 352.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -302,7 +302,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Ross 128 b.png",
+        "photo": "assets\\generated_images\\Ross 128 b.png",
         "description": "Ross 128 b is an exoplanet located approximately 11.03 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0044 times that of Jupiter. It has an orbital period of 9.8658 Earth days. It orbits its host star at a distance of 0.0496 AU. The planet has an estimated surface temperature of 301.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -319,7 +319,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\GJ 725 B b.png",
+        "photo": "assets\\generated_images\\GJ 725 B b.png",
         "description": "GJ 725 B b is an exoplanet located approximately 11.481 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0038 times that of Jupiter. It has an orbital period of 2.7 Earth days. It orbits its host star at a distance of 0.0238 AU."
     },
     {
@@ -336,7 +336,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 15 Ac.png",
+        "photo": "assets\\generated_images\\Gliese 15 Ac.png",
         "description": "Gliese 15 Ac is an exoplanet located approximately 11.6 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.11 times that of Jupiter. It has an orbital period of 7600.0 Earth days. It orbits its host star at a distance of 5.4 AU."
     },
     {
@@ -353,7 +353,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 15 Ab.png",
+        "photo": "assets\\generated_images\\Gliese 15 Ab.png",
         "description": "Gliese 15 Ab is an exoplanet located approximately 11.6 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.017 times that of Jupiter. It has an orbital period of 11.4433 Earth days. It orbits its host star at a distance of 0.0717 AU."
     },
     {
@@ -370,7 +370,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Epsilon Indi Ab.png",
+        "photo": "assets\\generated_images\\Epsilon Indi Ab.png",
         "description": "Epsilon Indi Ab is an exoplanet located approximately 11.87 light-years away from Earth. It is classified as a massive gas giant, with a mass 3.25 times that of Jupiter. It has an orbital period of 16510.0 Earth days. It orbits its host star at a distance of 11.55 AU. The planet has an estimated surface temperature of 64.25 K. This indicates it is a deeply frozen world."
     },
     {
@@ -387,7 +387,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1061 d.png",
+        "photo": "assets\\generated_images\\Gliese 1061 d.png",
         "description": "Gliese 1061 d is an exoplanet located approximately 11.98 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00516 times that of Jupiter. It has an orbital period of 13.031 Earth days. It orbits its host star at a distance of 0.054 AU."
     },
     {
@@ -404,7 +404,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1061 b.png",
+        "photo": "assets\\generated_images\\Gliese 1061 b.png",
         "description": "Gliese 1061 b is an exoplanet located approximately 11.98 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00431 times that of Jupiter. It has an orbital period of 3.204 Earth days. It orbits its host star at a distance of 0.021 AU."
     },
     {
@@ -421,7 +421,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1061 c.png",
+        "photo": "assets\\generated_images\\Gliese 1061 c.png",
         "description": "Gliese 1061 c is an exoplanet located approximately 11.98 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00547 times that of Jupiter. It has an orbital period of 6.689 Earth days. It orbits its host star at a distance of 0.035 AU."
     },
     {
@@ -438,7 +438,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\YZ Ceti b.png",
+        "photo": "assets\\generated_images\\YZ Ceti b.png",
         "description": "YZ Ceti b is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.0024 times that of Jupiter. It has an orbital period of 1.96876 Earth days. It orbits its host star at a distance of 0.01557 AU."
     },
     {
@@ -455,7 +455,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 273 c.png",
+        "photo": "assets\\generated_images\\Gliese 273 c.png",
         "description": "Gliese 273 c is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00371 times that of Jupiter. It has an orbital period of 4.7234 Earth days. It orbits its host star at a distance of 0.036467 AU."
     },
     {
@@ -472,7 +472,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Tau Ceti g.png",
+        "photo": "assets\\generated_images\\Tau Ceti g.png",
         "description": "Tau Ceti g is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00551 times that of Jupiter. It has an orbital period of 20.0 Earth days. It orbits its host star at a distance of 0.133 AU."
     },
     {
@@ -489,7 +489,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Tau Ceti h.png",
+        "photo": "assets\\generated_images\\Tau Ceti h.png",
         "description": "Tau Ceti h is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00576 times that of Jupiter. It has an orbital period of 49.41 Earth days. It orbits its host star at a distance of 0.243 AU."
     },
     {
@@ -506,7 +506,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Tau Ceti f.png",
+        "photo": "assets\\generated_images\\Tau Ceti f.png",
         "description": "Tau Ceti f is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0124 times that of Jupiter. It has an orbital period of 636.13 Earth days. It orbits its host star at a distance of 1.334 AU."
     },
     {
@@ -523,7 +523,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 273 b.png",
+        "photo": "assets\\generated_images\\Gliese 273 b.png",
         "description": "Gliese 273 b is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00909 times that of Jupiter. It has an orbital period of 18.6498 Earth days. It orbits its host star at a distance of 0.091101 AU. The planet has an estimated surface temperature of 259.0 K."
     },
     {
@@ -540,7 +540,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\YZ Ceti d.png",
+        "photo": "assets\\generated_images\\YZ Ceti d.png",
         "description": "YZ Ceti d is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00359 times that of Jupiter. It has an orbital period of 4.65627 Earth days. It orbits its host star at a distance of 0.02764 AU."
     },
     {
@@ -557,7 +557,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\YZ Ceti c.png",
+        "photo": "assets\\generated_images\\YZ Ceti c.png",
         "description": "YZ Ceti c is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00308 times that of Jupiter. It has an orbital period of 3.06008 Earth days. It orbits its host star at a distance of 0.0209 AU."
     },
     {
@@ -574,7 +574,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Tau Ceti e.png",
+        "photo": "assets\\generated_images\\Tau Ceti e.png",
         "description": "Tau Ceti e is an exoplanet located approximately 12.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0124 times that of Jupiter. It has an orbital period of 162.87 Earth days. It orbits its host star at a distance of 0.538 AU."
     },
     {
@@ -591,7 +591,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Teegarden b.png",
+        "photo": "assets\\generated_images\\Teegarden b.png",
         "description": "Teegarden b is an exoplanet located approximately 12.5 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0033 times that of Jupiter. It has an orbital period of 4.91 Earth days. It orbits its host star at a distance of 0.0252 AU."
     },
     {
@@ -608,7 +608,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Teegarden c.png",
+        "photo": "assets\\generated_images\\Teegarden c.png",
         "description": "Teegarden c is an exoplanet located approximately 12.5 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00349 times that of Jupiter. It has an orbital period of 11.409 Earth days. It orbits its host star at a distance of 0.0443 AU. The planet has an estimated surface temperature of 226.0 K."
     },
     {
@@ -625,7 +625,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Kapteyn b.png",
+        "photo": "assets\\generated_images\\Kapteyn b.png",
         "description": "Kapteyn b is an exoplanet located approximately 12.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.015 times that of Jupiter. It has an orbital period of 48.616 Earth days. It orbits its host star at a distance of 0.168 AU."
     },
     {
@@ -642,7 +642,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Kapteyn c.png",
+        "photo": "assets\\generated_images\\Kapteyn c.png",
         "description": "Kapteyn c is an exoplanet located approximately 12.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.022 times that of Jupiter. It has an orbital period of 121.54 Earth days. It orbits its host star at a distance of 0.311 AU."
     },
     {
@@ -659,7 +659,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Wolf 1061c.png",
+        "photo": "assets\\generated_images\\Wolf 1061c.png",
         "description": "Wolf 1061c is an exoplanet located approximately 14.04 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.01073 times that of Jupiter. It has an orbital period of 17.8719 Earth days. It orbits its host star at a distance of 0.089 AU."
     },
     {
@@ -676,7 +676,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Wolf 1061d.png",
+        "photo": "assets\\generated_images\\Wolf 1061d.png",
         "description": "Wolf 1061d is an exoplanet located approximately 14.04 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.02423 times that of Jupiter. It has an orbital period of 217.21 Earth days. It orbits its host star at a distance of 0.47 AU."
     },
     {
@@ -693,7 +693,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Wolf 1061b.png",
+        "photo": "assets\\generated_images\\Wolf 1061b.png",
         "description": "Wolf 1061b is an exoplanet located approximately 14.04 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00601 times that of Jupiter. It has an orbital period of 4.8869 Earth days. It orbits its host star at a distance of 0.0375 AU."
     },
     {
@@ -710,7 +710,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\L 1159-16 c.png",
+        "photo": "assets\\generated_images\\L 1159-16 c.png",
         "description": "L 1159-16 c is an exoplanet located approximately 14.584 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.222 times that of Jupiter. It has an orbital period of 766.954 Earth days. It orbits its host star at a distance of 0.871 AU."
     },
     {
@@ -727,7 +727,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\L 1159-16 b.png",
+        "photo": "assets\\generated_images\\L 1159-16 b.png",
         "description": "L 1159-16 b is an exoplanet located approximately 14.584 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.088 times that of Jupiter. It has an orbital period of 241.59 Earth days. It orbits its host star at a distance of 0.403 AU."
     },
     {
@@ -744,7 +744,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 687 b.png",
+        "photo": "assets\\generated_images\\Gliese 687 b.png",
         "description": "Gliese 687 b is an exoplanet located approximately 14.8 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.058 times that of Jupiter. It has an orbital period of 38.14 Earth days. It orbits its host star at a distance of 0.16353 AU."
     },
     {
@@ -761,7 +761,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 687 c.png",
+        "photo": "assets\\generated_images\\Gliese 687 c.png",
         "description": "Gliese 687 c is an exoplanet located approximately 14.83 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.05 times that of Jupiter. It has an orbital period of 728.0 Earth days. It orbits its host star at a distance of 1.165 AU."
     },
     {
@@ -778,7 +778,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 674 b.png",
+        "photo": "assets\\generated_images\\Gliese 674 b.png",
         "description": "Gliese 674 b is an exoplanet located approximately 14.84 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.035 times that of Jupiter. It has an orbital period of 4.6938 Earth days. It orbits its host star at a distance of 0.039 AU."
     },
     {
@@ -795,7 +795,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 876 b.png",
+        "photo": "assets\\generated_images\\Gliese 876 b.png",
         "description": "Gliese 876 b is an exoplanet located approximately 15.25 light-years away from Earth. It is classified as a massive gas giant, with a mass 2.2756 times that of Jupiter. It has an orbital period of 61.1166 Earth days. It orbits its host star at a distance of 0.208317 AU."
     },
     {
@@ -812,7 +812,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 876 d.png",
+        "photo": "assets\\generated_images\\Gliese 876 d.png",
         "description": "Gliese 876 d is an exoplanet located approximately 15.26 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.021 times that of Jupiter. It has an orbital period of 1.93778 Earth days. It orbits its host star at a distance of 0.020807 AU."
     },
     {
@@ -829,7 +829,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 876 e.png",
+        "photo": "assets\\generated_images\\Gliese 876 e.png",
         "description": "Gliese 876 e is an exoplanet located approximately 15.26 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.046 times that of Jupiter. It has an orbital period of 124.26 Earth days. It orbits its host star at a distance of 0.3343 AU."
     },
     {
@@ -846,7 +846,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 876 c.png",
+        "photo": "assets\\generated_images\\Gliese 876 c.png",
         "description": "Gliese 876 c is an exoplanet located approximately 15.26 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.7142 times that of Jupiter. It has an orbital period of 30.0881 Earth days. It orbits its host star at a distance of 0.12959 AU."
     },
     {
@@ -863,7 +863,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 832 c.png",
+        "photo": "assets\\generated_images\\Gliese 832 c.png",
         "description": "Gliese 832 c is an exoplanet located approximately 16.1 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.017 times that of Jupiter. It has an orbital period of 35.68 Earth days. It orbits its host star at a distance of 0.163 AU."
     },
     {
@@ -880,7 +880,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 832 b.png",
+        "photo": "assets\\generated_images\\Gliese 832 b.png",
         "description": "Gliese 832 b is an exoplanet located approximately 16.21 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.68 times that of Jupiter. It has an orbital period of 3657.0 Earth days. It orbits its host star at a distance of 3.56 AU."
     },
     {
@@ -897,7 +897,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 682 b.png",
+        "photo": "assets\\generated_images\\Gliese 682 b.png",
         "description": "Gliese 682 b is an exoplanet located approximately 16.33 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.014 times that of Jupiter. It has an orbital period of 17.478 Earth days. It orbits its host star at a distance of 0.08 AU."
     },
     {
@@ -914,7 +914,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 682 c.png",
+        "photo": "assets\\generated_images\\Gliese 682 c.png",
         "description": "Gliese 682 c is an exoplanet located approximately 16.33 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0274 times that of Jupiter. It has an orbital period of 57.32 Earth days. It orbits its host star at a distance of 0.176 AU."
     },
     {
@@ -931,7 +931,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\40 Eridani Ab.png",
+        "photo": "assets\\generated_images\\40 Eridani Ab.png",
         "description": "40 Eridani Ab is an exoplanet located approximately 16.426 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0266 times that of Jupiter. It has an orbital period of 42.378 Earth days. It orbits its host star at a distance of 0.219 AU."
     },
     {
@@ -948,7 +948,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 3323 c.png",
+        "photo": "assets\\generated_images\\Gliese 3323 c.png",
         "description": "Gliese 3323 c is an exoplanet located approximately 17.4 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00727 times that of Jupiter. It has an orbital period of 40.54 Earth days. It orbits its host star at a distance of 0.1264 AU."
     },
     {
@@ -965,7 +965,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 3323 b.png",
+        "photo": "assets\\generated_images\\Gliese 3323 b.png",
         "description": "Gliese 3323 b is an exoplanet located approximately 17.4 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00636 times that of Jupiter. It has an orbital period of 5.3636 Earth days. It orbits its host star at a distance of 0.03282 AU."
     },
     {
@@ -982,7 +982,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 251 b.png",
+        "photo": "assets\\generated_images\\Gliese 251 b.png",
         "description": "Gliese 251 b is an exoplanet located approximately 18.205 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.013 times that of Jupiter. It has an orbital period of 14.238 Earth days. It orbits its host star at a distance of 0.0818 AU. The planet has an estimated surface temperature of 351.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -999,7 +999,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 229 Ab.png",
+        "photo": "assets\\generated_images\\Gliese 229 Ab.png",
         "description": "Gliese 229 Ab is an exoplanet located approximately 18.77 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.1 times that of Jupiter. It has an orbital period of 471.0 Earth days. It orbits its host star at a distance of 0.97 AU."
     },
     {
@@ -1016,7 +1016,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 229 Ac.png",
+        "photo": "assets\\generated_images\\Gliese 229 Ac.png",
         "description": "Gliese 229 Ac is an exoplanet located approximately 18.78 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.025 times that of Jupiter. It has an orbital period of 122.005 Earth days. It orbits its host star at a distance of 0.339 AU."
     },
     {
@@ -1033,7 +1033,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 180617 b.png",
+        "photo": "assets\\generated_images\\HD 180617 b.png",
         "description": "HD 180617 b is an exoplanet located approximately 19.28 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.03839 times that of Jupiter. It has an orbital period of 105.9 Earth days. It orbits its host star at a distance of 0.3357 AU."
     },
     {
@@ -1050,7 +1050,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\82 G. Eridani b.png",
+        "photo": "assets\\generated_images\\82 G. Eridani b.png",
         "description": "82 G. Eridani b is an exoplanet located approximately 19.57 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0085 times that of Jupiter. It has an orbital period of 18.315 Earth days. It orbits its host star at a distance of 0.1207 AU. The planet has an estimated surface temperature of 660.0 K."
     },
     {
@@ -1067,7 +1067,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\82 G. Eridani d.png",
+        "photo": "assets\\generated_images\\82 G. Eridani d.png",
         "description": "82 G. Eridani d is an exoplanet located approximately 19.57 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.015 times that of Jupiter. It has an orbital period of 90.309 Earth days. It orbits its host star at a distance of 0.3499 AU. The planet has an estimated surface temperature of 388.0 K."
     },
     {
@@ -1084,7 +1084,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\82 G. Eridani c.png",
+        "photo": "assets\\generated_images\\82 G. Eridani c.png",
         "description": "82 G. Eridani c is an exoplanet located approximately 19.57 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0076 times that of Jupiter. It has an orbital period of 40.114 Earth days. It orbits its host star at a distance of 0.2036 AU. The planet has an estimated surface temperature of 508.0 K."
     },
     {
@@ -1101,7 +1101,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 20794 e.png",
+        "photo": "assets\\generated_images\\HD 20794 e.png",
         "description": "HD 20794 e is an exoplanet located approximately 19.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.015 times that of Jupiter. It has an orbital period of 147.02 Earth days. It orbits its host star at a distance of 0.509 AU."
     },
     {
@@ -1118,7 +1118,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 581 c.png",
+        "photo": "assets\\generated_images\\Gliese 581 c.png",
         "description": "Gliese 581 c is an exoplanet located approximately 20.55 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0173 times that of Jupiter. It has an orbital period of 12.914 Earth days. It orbits its host star at a distance of 0.0721 AU."
     },
     {
@@ -1135,7 +1135,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 581 e.png",
+        "photo": "assets\\generated_images\\Gliese 581 e.png",
         "description": "Gliese 581 e is an exoplanet located approximately 20.55 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0053 times that of Jupiter. It has an orbital period of 3.149 Earth days. It orbits its host star at a distance of 0.02815 AU."
     },
     {
@@ -1152,7 +1152,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 581 b.png",
+        "photo": "assets\\generated_images\\Gliese 581 b.png",
         "description": "Gliese 581 b is an exoplanet located approximately 20.55 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0497 times that of Jupiter. It has an orbital period of 5.3686 Earth days. It orbits its host star at a distance of 0.04061 AU."
     },
     {
@@ -1169,7 +1169,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 79211 b.png",
+        "photo": "assets\\generated_images\\HD 79211 b.png",
         "description": "HD 79211 b is an exoplanet located approximately 20.658 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.032 times that of Jupiter. It has an orbital period of 24.45 Earth days. It orbits its host star at a distance of 0.141 AU. The planet has an estimated surface temperature of 345.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -1186,7 +1186,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 625 b.png",
+        "photo": "assets\\generated_images\\Gliese 625 b.png",
         "description": "Gliese 625 b is an exoplanet located approximately 21.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00887 times that of Jupiter. It has an orbital period of 14.628 Earth days. It orbits its host star at a distance of 0.078361 AU."
     },
     {
@@ -1203,7 +1203,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 219134 g.png",
+        "photo": "assets\\generated_images\\HD 219134 g.png",
         "description": "HD 219134 g is an exoplanet located approximately 21.4 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.034 times that of Jupiter. It has an orbital period of 94.2 Earth days. It orbits its host star at a distance of 0.3753 AU."
     },
     {
@@ -1220,7 +1220,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 219134 d.png",
+        "photo": "assets\\generated_images\\HD 219134 d.png",
         "description": "HD 219134 d is an exoplanet located approximately 21.4 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.05088 times that of Jupiter and a radius 0.144 times that of Jupiter. It has an orbital period of 46.859 Earth days. It orbits its host star at a distance of 0.237 AU."
     },
     {
@@ -1237,7 +1237,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 219134 c.png",
+        "photo": "assets\\generated_images\\HD 219134 c.png",
         "description": "HD 219134 c is an exoplanet located approximately 21.4 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.01372 times that of Jupiter and a radius 0.135 times that of Jupiter. It has an orbital period of 6.76458 Earth days. It orbits its host star at a distance of 0.0653 AU."
     },
     {
@@ -1254,7 +1254,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 219134 b.png",
+        "photo": "assets\\generated_images\\HD 219134 b.png",
         "description": "HD 219134 b is an exoplanet located approximately 21.4 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.01491 times that of Jupiter and a radius 0.143 times that of Jupiter. It has an orbital period of 3.092926 Earth days. It orbits its host star at a distance of 0.03876 AU."
     },
     {
@@ -1271,7 +1271,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 219134 f.png",
+        "photo": "assets\\generated_images\\HD 219134 f.png",
         "description": "HD 219134 f is an exoplanet located approximately 21.4 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.02297 times that of Jupiter and a radius 0.117 times that of Jupiter. It has an orbital period of 22.717 Earth days. It orbits its host star at a distance of 0.1463 AU."
     },
     {
@@ -1288,7 +1288,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 219134 h.png",
+        "photo": "assets\\generated_images\\HD 219134 h.png",
         "description": "HD 219134 h is an exoplanet located approximately 21.4 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.34 times that of Jupiter. It has an orbital period of 2247.0 Earth days. It orbits its host star at a distance of 3.11 AU."
     },
     {
@@ -1305,7 +1305,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 667 Cb.png",
+        "photo": "assets\\generated_images\\Gliese 667 Cb.png",
         "description": "Gliese 667 Cb is an exoplanet located approximately 22.18 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.018 times that of Jupiter. It has an orbital period of 7.2004 Earth days. It orbits its host star at a distance of 0.0505 AU."
     },
     {
@@ -1322,7 +1322,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 667 Cc.png",
+        "photo": "assets\\generated_images\\Gliese 667 Cc.png",
         "description": "Gliese 667 Cc is an exoplanet located approximately 22.18 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.012 times that of Jupiter. It has an orbital period of 28.14 Earth days. It orbits its host star at a distance of 0.125 AU."
     },
     {
@@ -1339,7 +1339,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\LTT 1445 Ab.png",
+        "photo": "assets\\generated_images\\LTT 1445 Ab.png",
         "description": "LTT 1445 Ab is an exoplanet located approximately 22.4 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0069 times that of Jupiter and a radius 0.123 times that of Jupiter. It has an orbital period of 5.35882 Earth days. It orbits its host star at a distance of 0.03807 AU. The planet has an estimated surface temperature of 433.0 K."
     },
     {
@@ -1356,7 +1356,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\LTT 1445 Ac.png",
+        "photo": "assets\\generated_images\\LTT 1445 Ac.png",
         "description": "LTT 1445 Ac is an exoplanet located approximately 22.41 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0048 times that of Jupiter and a radius 0.103 times that of Jupiter. It has an orbital period of 3.1239 Earth days. It orbits its host star at a distance of 0.02661 AU."
     },
     {
@@ -1373,7 +1373,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 393 b.png",
+        "photo": "assets\\generated_images\\Gliese 393 b.png",
         "description": "Gliese 393 b is an exoplanet located approximately 22.956 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0054 times that of Jupiter. It has an orbital period of 7.02679 Earth days. It orbits its host star at a distance of 0.05402 AU. The planet has an estimated surface temperature of 485.0 K."
     },
     {
@@ -1390,7 +1390,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1151b.png",
+        "photo": "assets\\generated_images\\Gliese 1151b.png",
         "description": "Gliese 1151b is an exoplanet located approximately 26.23 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0079 times that of Jupiter. It has an orbital period of 2.02 Earth days. It orbits its host star at a distance of 0.01735 AU."
     },
     {
@@ -1407,7 +1407,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 486 b.png",
+        "photo": "assets\\generated_images\\Gliese 486 b.png",
         "description": "Gliese 486 b is an exoplanet located approximately 26.344 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0089 times that of Jupiter and a radius 0.117 times that of Jupiter. It has an orbital period of 1.467119 Earth days. It orbits its host star at a distance of 0.01734 AU. The planet has an estimated surface temperature of 701.0 K."
     },
     {
@@ -1424,7 +1424,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 686 b.png",
+        "photo": "assets\\generated_images\\Gliese 686 b.png",
         "description": "Gliese 686 b is an exoplanet located approximately 26.612 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.022 times that of Jupiter. It has an orbital period of 15.53209 Earth days. It orbits its host star at a distance of 0.091 AU. The planet has an estimated surface temperature of 379.0 K."
     },
     {
@@ -1441,7 +1441,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\61 Virginis c.png",
+        "photo": "assets\\generated_images\\61 Virginis c.png",
         "description": "61 Virginis c is an exoplanet located approximately 27.76 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.057 times that of Jupiter. It has an orbital period of 38.021 Earth days. It orbits its host star at a distance of 0.2175 AU."
     },
     {
@@ -1458,7 +1458,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\61 Virginis b.png",
+        "photo": "assets\\generated_images\\61 Virginis b.png",
         "description": "61 Virginis b is an exoplanet located approximately 27.76 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.016 times that of Jupiter. It has an orbital period of 4.215 Earth days. It orbits its host star at a distance of 0.050201 AU."
     },
     {
@@ -1475,7 +1475,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\61 Virginis d.png",
+        "photo": "assets\\generated_images\\61 Virginis d.png",
         "description": "61 Virginis d is an exoplanet located approximately 27.76 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.072 times that of Jupiter. It has an orbital period of 123.01 Earth days. It orbits its host star at a distance of 0.476 AU."
     },
     {
@@ -1492,7 +1492,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\CD Ceti b\u00a0[es].png",
+        "photo": "assets\\generated_images\\CD Ceti b\u00a0[es].png",
         "description": "CD Ceti b\u00a0[es] is an exoplanet located approximately 28.07 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0124 times that of Jupiter. It has an orbital period of 2.2907 Earth days. It orbits its host star at a distance of 0.0185 AU. The planet has an estimated surface temperature of 464.0 K."
     },
     {
@@ -1509,7 +1509,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 192310 b.png",
+        "photo": "assets\\generated_images\\HD 192310 b.png",
         "description": "HD 192310 b is an exoplanet located approximately 28.7 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.053 times that of Jupiter. It has an orbital period of 74.72 Earth days. It orbits its host star at a distance of 0.32 AU."
     },
     {
@@ -1526,7 +1526,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 785 b.png",
+        "photo": "assets\\generated_images\\Gliese 785 b.png",
         "description": "Gliese 785 b is an exoplanet located approximately 28.7 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0532 times that of Jupiter. It has an orbital period of 74.72 Earth days. It orbits its host star at a distance of 0.32 AU. The planet has an estimated surface temperature of 355.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -1543,7 +1543,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 785 c.png",
+        "photo": "assets\\generated_images\\Gliese 785 c.png",
         "description": "Gliese 785 c is an exoplanet located approximately 28.7 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.076 times that of Jupiter. It has an orbital period of 525.8 Earth days. It orbits its host star at a distance of 1.18 AU. The planet has an estimated surface temperature of 185.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -1560,7 +1560,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 192310 c.png",
+        "photo": "assets\\generated_images\\HD 192310 c.png",
         "description": "HD 192310 c is an exoplanet located approximately 28.7 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.076 times that of Jupiter. It has an orbital period of 525.8 Earth days. It orbits its host star at a distance of 1.18 AU."
     },
     {
@@ -1577,7 +1577,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 849 b.png",
+        "photo": "assets\\generated_images\\Gliese 849 b.png",
         "description": "Gliese 849 b is an exoplanet located approximately 28.7 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.0 times that of Jupiter. It has an orbital period of 1882.0 Earth days. It orbits its host star at a distance of 2.35 AU."
     },
     {
@@ -1594,7 +1594,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\WISE 1217+1626 B.png",
+        "photo": "assets\\generated_images\\WISE 1217+1626 B.png",
         "description": "WISE 1217+1626 B is an exoplanet located approximately 29.0 light-years away from Earth. It is classified as a massive gas giant, with a mass 22.0 times that of Jupiter and a radius 0.934 times that of Jupiter. It orbits its host star at a distance of 8.0 AU. The planet has an estimated surface temperature of 450.0 K."
     },
     {
@@ -1611,7 +1611,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 433 c.png",
+        "photo": "assets\\generated_images\\Gliese 433 c.png",
         "description": "Gliese 433 c is an exoplanet located approximately 29.57 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.14 times that of Jupiter. It has an orbital period of 4900.0 Earth days. It orbits its host star at a distance of 4.7 AU."
     },
     {
@@ -1628,7 +1628,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 433 d.png",
+        "photo": "assets\\generated_images\\Gliese 433 d.png",
         "description": "Gliese 433 d is an exoplanet located approximately 29.57 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.019 times that of Jupiter. It has an orbital period of 36.052 Earth days. It orbits its host star at a distance of 0.178 AU."
     },
     {
@@ -1645,7 +1645,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 433 b.png",
+        "photo": "assets\\generated_images\\Gliese 433 b.png",
         "description": "Gliese 433 b is an exoplanet located approximately 29.58 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.01901 times that of Jupiter. It has an orbital period of 7.3705 Earth days. It orbits its host star at a distance of 0.062 AU."
     },
     {
@@ -1662,7 +1662,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 102365 b.png",
+        "photo": "assets\\generated_images\\HD 102365 b.png",
         "description": "HD 102365 b is an exoplanet located approximately 30.3 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.05 times that of Jupiter. It has an orbital period of 122.1 Earth days. It orbits its host star at a distance of 0.46 AU."
     },
     {
@@ -1679,7 +1679,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 367b.png",
+        "photo": "assets\\generated_images\\Gliese 367b.png",
         "description": "Gliese 367b is an exoplanet located approximately 30.695 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.0017 times that of Jupiter and a radius 0.064 times that of Jupiter. It has an orbital period of 0.321962 Earth days. It orbits its host star at a distance of 0.0071 AU. The planet has an estimated surface temperature of 1745.0 K. This makes it a scorching hot world."
     },
     {
@@ -1696,7 +1696,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 357 d.png",
+        "photo": "assets\\generated_images\\Gliese 357 d.png",
         "description": "Gliese 357 d is an exoplanet located approximately 30.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.019 times that of Jupiter. It has an orbital period of 55.661 Earth days. It orbits its host star at a distance of 0.204 AU. The planet has an estimated surface temperature of 219.6 K."
     },
     {
@@ -1713,7 +1713,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 357 b.png",
+        "photo": "assets\\generated_images\\Gliese 357 b.png",
         "description": "Gliese 357 b is an exoplanet located approximately 30.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00579 times that of Jupiter and a radius 0.1086 times that of Jupiter. It has an orbital period of 3.93072 Earth days. It orbits its host star at a distance of 0.035 AU. The planet has an estimated surface temperature of 525.0 K."
     },
     {
@@ -1730,7 +1730,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 357 c.png",
+        "photo": "assets\\generated_images\\Gliese 357 c.png",
         "description": "Gliese 357 c is an exoplanet located approximately 30.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0107 times that of Jupiter. It has an orbital period of 9.1247 Earth days. It orbits its host star at a distance of 0.061 AU. The planet has an estimated surface temperature of 401.2 K."
     },
     {
@@ -1747,7 +1747,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 176 b.png",
+        "photo": "assets\\generated_images\\Gliese 176 b.png",
         "description": "Gliese 176 b is an exoplanet located approximately 30.89 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.026 times that of Jupiter. It has an orbital period of 8.7836 Earth days. It orbits its host star at a distance of 0.066 AU. The planet has an estimated surface temperature of 450.0 K."
     },
     {
@@ -1764,7 +1764,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 3512 b.png",
+        "photo": "assets\\generated_images\\Gliese 3512 b.png",
         "description": "Gliese 3512 b is an exoplanet located approximately 30.95 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.463 times that of Jupiter. It has an orbital period of 203.59 Earth days. It orbits its host star at a distance of 0.338 AU."
     },
     {
@@ -1781,7 +1781,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\AU Microscopii c.png",
+        "photo": "assets\\generated_images\\AU Microscopii c.png",
         "description": "AU Microscopii c is an exoplanet located approximately 31.7 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.087 times that of Jupiter and a radius 0.32 times that of Jupiter. It has an orbital period of 18.858991 Earth days. It orbits its host star at a distance of 0.1101 AU. The planet has an estimated surface temperature of 454.0 K."
     },
     {
@@ -1798,7 +1798,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 436 b.png",
+        "photo": "assets\\generated_images\\Gliese 436 b.png",
         "description": "Gliese 436 b is an exoplanet located approximately 31.83 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.07 times that of Jupiter and a radius 0.372 times that of Jupiter. It has an orbital period of 2.643883 Earth days. It orbits its host star at a distance of 0.0291 AU. The planet has an estimated surface temperature of 686.0 K."
     },
     {
@@ -1815,7 +1815,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 49 b.png",
+        "photo": "assets\\generated_images\\Gliese 49 b.png",
         "description": "Gliese 49 b is an exoplanet located approximately 32.145 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0177 times that of Jupiter. It has an orbital period of 13.8508 Earth days. It orbits its host star at a distance of 0.0905 AU."
     },
     {
@@ -1832,7 +1832,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\AU Microscopii b.png",
+        "photo": "assets\\generated_images\\AU Microscopii b.png",
         "description": "AU Microscopii b is an exoplanet located approximately 32.3 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.18 times that of Jupiter and a radius 0.375 times that of Jupiter. It has an orbital period of 8.46321 Earth days. It orbits its host star at a distance of 0.066 AU."
     },
     {
@@ -1849,7 +1849,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 536 b.png",
+        "photo": "assets\\generated_images\\Gliese 536 b.png",
         "description": "Gliese 536 b is an exoplanet located approximately 32.7 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.01686 times that of Jupiter. It has an orbital period of 8.7076 Earth days. It orbits its host star at a distance of 0.06661 AU."
     },
     {
@@ -1866,7 +1866,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1265 b.png",
+        "photo": "assets\\generated_images\\Gliese 1265 b.png",
         "description": "Gliese 1265 b is an exoplanet located approximately 33.45 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.023 times that of Jupiter. It has an orbital period of 3.6511 Earth days. It orbits its host star at a distance of 0.026 AU."
     },
     {
@@ -1883,7 +1883,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Pollux b.png",
+        "photo": "assets\\generated_images\\Pollux b.png",
         "description": "Pollux b is an exoplanet located approximately 33.73 light-years away from Earth. It is classified as a massive gas giant, with a mass 2.3 times that of Jupiter. It has an orbital period of 589.64 Earth days. It orbits its host star at a distance of 1.64 AU."
     },
     {
@@ -1900,7 +1900,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 649 b.png",
+        "photo": "assets\\generated_images\\Gliese 649 b.png",
         "description": "Gliese 649 b is an exoplanet located approximately 33.86 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.328 times that of Jupiter. It has an orbital period of 598.3 Earth days. It orbits its host star at a distance of 1.135 AU."
     },
     {
@@ -1917,7 +1917,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HIP 48714 b.png",
+        "photo": "assets\\generated_images\\HIP 48714 b.png",
         "description": "HIP 48714 b is an exoplanet located approximately 34.3 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.071 times that of Jupiter. It has an orbital period of 17.819 Earth days. It orbits its host star at a distance of 0.112 AU."
     },
     {
@@ -1934,7 +1934,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Luyten 98-59 e.png",
+        "photo": "assets\\generated_images\\Luyten 98-59 e.png",
         "description": "Luyten 98-59 e is an exoplanet located approximately 34.6 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0094 times that of Jupiter. It has an orbital period of 12.8 Earth days. It orbits its host star at a distance of 0.071 AU."
     },
     {
@@ -1951,7 +1951,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Luyten 98-59 f.png",
+        "photo": "assets\\generated_images\\Luyten 98-59 f.png",
         "description": "Luyten 98-59 f is an exoplanet located approximately 34.6 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0078 times that of Jupiter. It has an orbital period of 23.2 Earth days. It orbits its host star at a distance of 0.103 AU."
     },
     {
@@ -1968,7 +1968,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TOI-175b.png",
+        "photo": "assets\\generated_images\\TOI-175b.png",
         "description": "TOI-175b is an exoplanet located approximately 34.636 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.00126 times that of Jupiter and a radius 0.0642 times that of Jupiter. It has an orbital period of 2.253114 Earth days. It orbits its host star at a distance of 0.02191 AU. The planet has an estimated surface temperature of 627.0 K."
     },
     {
@@ -1985,7 +1985,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Luyten 98-59 d.png",
+        "photo": "assets\\generated_images\\Luyten 98-59 d.png",
         "description": "Luyten 98-59 d is an exoplanet located approximately 34.64 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0107 times that of Jupiter and a radius 0.14 times that of Jupiter. It has an orbital period of 7.45086 Earth days. It orbits its host star at a distance of 0.052 AU."
     },
     {
@@ -2002,7 +2002,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Luyten 98-59 c.png",
+        "photo": "assets\\generated_images\\Luyten 98-59 c.png",
         "description": "Luyten 98-59 c is an exoplanet located approximately 34.64 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00755 times that of Jupiter and a radius 0.12 times that of Jupiter. It has an orbital period of 3.690621 Earth days. It orbits its host star at a distance of 0.0324 AU."
     },
     {
@@ -2019,7 +2019,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Luyten 98-59 b.png",
+        "photo": "assets\\generated_images\\Luyten 98-59 b.png",
         "description": "Luyten 98-59 b is an exoplanet located approximately 34.64 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.00157 times that of Jupiter and a radius 0.071 times that of Jupiter. It has an orbital period of 2.25314 Earth days. It orbits its host star at a distance of 0.0233 AU."
     },
     {
@@ -2036,7 +2036,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TVLM 513-46546 b.png",
+        "photo": "assets\\generated_images\\TVLM 513-46546 b.png",
         "description": "TVLM 513-46546 b is an exoplanet located approximately 34.9 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.38 times that of Jupiter. It has an orbital period of 221.0 Earth days. It orbits its host star at a distance of 0.3 AU."
     },
     {
@@ -2053,7 +2053,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 147379 b.png",
+        "photo": "assets\\generated_images\\HD 147379 b.png",
         "description": "HD 147379 b is an exoplanet located approximately 35.01 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0777 times that of Jupiter. It has an orbital period of 86.54 Earth days. It orbits its host star at a distance of 0.3193 AU."
     },
     {
@@ -2070,7 +2070,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 86 b.png",
+        "photo": "assets\\generated_images\\Gliese 86 b.png",
         "description": "Gliese 86 b is an exoplanet located approximately 35.18 light-years away from Earth. It is classified as a massive gas giant, with a mass 4.42 times that of Jupiter. It has an orbital period of 15.76491 Earth days. It orbits its host star at a distance of 0.11 AU."
     },
     {
@@ -2087,7 +2087,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\COCONUTS-2b.png",
+        "photo": "assets\\generated_images\\COCONUTS-2b.png",
         "description": "COCONUTS-2b is an exoplanet located approximately 35.6 light-years away from Earth. It is classified as a massive gas giant, with a mass 6.3 times that of Jupiter. It has an orbital period of 400000000.0 Earth days. It orbits its host star at a distance of 7506.0 AU. The planet has an estimated surface temperature of 434.0 K."
     },
     {
@@ -2104,7 +2104,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1148 b.png",
+        "photo": "assets\\generated_images\\Gliese 1148 b.png",
         "description": "Gliese 1148 b is an exoplanet located approximately 35.94 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.30425 times that of Jupiter. It has an orbital period of 41.38 Earth days. It orbits its host star at a distance of 0.166 AU."
     },
     {
@@ -2121,7 +2121,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1148 c.png",
+        "photo": "assets\\generated_images\\Gliese 1148 c.png",
         "description": "Gliese 1148 c is an exoplanet located approximately 35.98 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.2141 times that of Jupiter. It has an orbital period of 532.58 Earth days. It orbits its host star at a distance of 0.912 AU."
     },
     {
@@ -2138,7 +2138,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 740 b.png",
+        "photo": "assets\\generated_images\\Gliese 740 b.png",
         "description": "Gliese 740 b is an exoplanet located approximately 36.21 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0093 times that of Jupiter. It has an orbital period of 2.37756 Earth days. It orbits its host star at a distance of 0.029 AU. The planet has an estimated surface temperature of 829.0 K."
     },
     {
@@ -2155,7 +2155,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\54 Piscium b.png",
+        "photo": "assets\\generated_images\\54 Piscium b.png",
         "description": "54 Piscium b is an exoplanet located approximately 36.34 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.228 times that of Jupiter. It has an orbital period of 62.25 Earth days. It orbits its host star at a distance of 0.295 AU."
     },
     {
@@ -2172,7 +2172,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 85512 b.png",
+        "photo": "assets\\generated_images\\HD 85512 b.png",
         "description": "HD 85512 b is an exoplanet located approximately 36.79 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.01 times that of Jupiter. It has an orbital period of 58.43 Earth days. It orbits its host star at a distance of 0.26 AU. The planet has an estimated surface temperature of 298.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -2189,7 +2189,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 33142 c.png",
+        "photo": "assets\\generated_images\\HD 33142 c.png",
         "description": "HD 33142 c is an exoplanet located approximately 37.34 light-years away from Earth. It is classified as a massive gas giant, with a mass 5.97 times that of Jupiter. It has an orbital period of 834.0 Earth days."
     },
     {
@@ -2206,7 +2206,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Ross 458 c.png",
+        "photo": "assets\\generated_images\\Ross 458 c.png",
         "description": "Ross 458 c is an exoplanet located approximately 37.54 light-years away from Earth. It is classified as a massive gas giant, with a mass 6.28536 times that of Jupiter and a radius 1.22 times that of Jupiter. It orbits its host star at a distance of 1168.0 AU."
     },
     {
@@ -2223,7 +2223,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 116029 c.png",
+        "photo": "assets\\generated_images\\HD 116029 c.png",
         "description": "HD 116029 c is an exoplanet located approximately 37.92 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.27 times that of Jupiter. It has an orbital period of 907.0 Earth days."
     },
     {
@@ -2240,7 +2240,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gl 414 A c.png",
+        "photo": "assets\\generated_images\\Gl 414 A c.png",
         "description": "Gl 414 A c is an exoplanet located approximately 38.8 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.177 times that of Jupiter and a radius 0.784 times that of Jupiter. It has an orbital period of 748.3 Earth days. It orbits its host star at a distance of 1.43 AU. The planet has an estimated surface temperature of 123.3 K. This indicates it is a deeply frozen world."
     },
     {
@@ -2257,7 +2257,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gl 414 A b.png",
+        "photo": "assets\\generated_images\\Gl 414 A b.png",
         "description": "Gl 414 A b is an exoplanet located approximately 38.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.029 times that of Jupiter and a radius 0.263 times that of Jupiter. It has an orbital period of 50.817 Earth days. It orbits its host star at a distance of 0.24 AU. The planet has an estimated surface temperature of 303.7 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -2274,7 +2274,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Lambda Serpentis b.png",
+        "photo": "assets\\generated_images\\Lambda Serpentis b.png",
         "description": "Lambda Serpentis b is an exoplanet located approximately 38.87 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0428 times that of Jupiter. It has an orbital period of 15.5083 Earth days. It orbits its host star at a distance of 0.1238 AU."
     },
     {
@@ -2291,7 +2291,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 96 b.png",
+        "photo": "assets\\generated_images\\Gliese 96 b.png",
         "description": "Gliese 96 b is an exoplanet located approximately 38.929 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.06186 times that of Jupiter. It has an orbital period of 73.94 Earth days. It orbits its host star at a distance of 0.291 AU."
     },
     {
@@ -2308,7 +2308,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 180 b.png",
+        "photo": "assets\\generated_images\\Gliese 180 b.png",
         "description": "Gliese 180 b is an exoplanet located approximately 38.95 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0261 times that of Jupiter. It has an orbital period of 17.38 Earth days. It orbits its host star at a distance of 0.103 AU."
     },
     {
@@ -2325,7 +2325,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 180 c.png",
+        "photo": "assets\\generated_images\\Gliese 180 c.png",
         "description": "Gliese 180 c is an exoplanet located approximately 38.95 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0201 times that of Jupiter. It has an orbital period of 24.329 Earth days. It orbits its host star at a distance of 0.129 AU."
     },
     {
@@ -2342,7 +2342,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TRAPPIST-1c.png",
+        "photo": "assets\\generated_images\\TRAPPIST-1c.png",
         "description": "TRAPPIST-1c is an exoplanet located approximately 39.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00434 times that of Jupiter and a radius 0.094 times that of Jupiter. It has an orbital period of 2.421823 Earth days. It orbits its host star at a distance of 0.01521 AU. The planet has an estimated surface temperature of 342.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -2359,7 +2359,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TRAPPIST-1b.png",
+        "photo": "assets\\generated_images\\TRAPPIST-1b.png",
         "description": "TRAPPIST-1b is an exoplanet located approximately 39.0 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.00267 times that of Jupiter and a radius 0.097 times that of Jupiter. It has an orbital period of 1.510871 Earth days. It orbits its host star at a distance of 0.01111 AU. The planet has an estimated surface temperature of 400.0 K."
     },
     {
@@ -2376,7 +2376,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TRAPPIST-1e.png",
+        "photo": "assets\\generated_images\\TRAPPIST-1e.png",
         "description": "TRAPPIST-1e is an exoplanet located approximately 39.0 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.00195 times that of Jupiter and a radius 0.082 times that of Jupiter. It has an orbital period of 6.099615 Earth days. It orbits its host star at a distance of 0.02817 AU. The planet has an estimated surface temperature of 251.0 K."
     },
     {
@@ -2393,7 +2393,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TRAPPIST-1d.png",
+        "photo": "assets\\generated_images\\TRAPPIST-1d.png",
         "description": "TRAPPIST-1d is an exoplanet located approximately 39.0 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.00129 times that of Jupiter and a radius 0.069 times that of Jupiter. It has an orbital period of 4.04961 Earth days. It orbits its host star at a distance of 0.02144 AU. The planet has an estimated surface temperature of 288.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -2410,7 +2410,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TRAPPIST-1g.png",
+        "photo": "assets\\generated_images\\TRAPPIST-1g.png",
         "description": "TRAPPIST-1g is an exoplanet located approximately 39.0 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00422 times that of Jupiter and a radius 0.101 times that of Jupiter. It has an orbital period of 12.35294 Earth days. It orbits its host star at a distance of 0.0451 AU. The planet has an estimated surface temperature of 199.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -2427,7 +2427,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TRAPPIST-1f.png",
+        "photo": "assets\\generated_images\\TRAPPIST-1f.png",
         "description": "TRAPPIST-1f is an exoplanet located approximately 39.0 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.00214 times that of Jupiter and a radius 0.093 times that of Jupiter. It has an orbital period of 9.20669 Earth days. It orbits its host star at a distance of 0.0371 AU. The planet has an estimated surface temperature of 219.0 K."
     },
     {
@@ -2444,7 +2444,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TRAPPIST-1h.png",
+        "photo": "assets\\generated_images\\TRAPPIST-1h.png",
         "description": "TRAPPIST-1h is an exoplanet located approximately 39.0 light-years away from Earth. It is classified as a small, rocky planet, with a radius 0.067 times that of Jupiter. It has an orbital period of 20.0 Earth days. It orbits its host star at a distance of 0.063 AU. The planet has an estimated surface temperature of 168.0 K. This indicates it is a deeply frozen world."
     },
     {
@@ -2461,7 +2461,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1132 b.png",
+        "photo": "assets\\generated_images\\Gliese 1132 b.png",
         "description": "Gliese 1132 b is an exoplanet located approximately 39.3 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0051 times that of Jupiter and a radius 0.103 times that of Jupiter. It has an orbital period of 1.62893 Earth days. The planet has an estimated surface temperature of 580.0 K."
     },
     {
@@ -2478,7 +2478,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 180 d.png",
+        "photo": "assets\\generated_images\\Gliese 180 d.png",
         "description": "Gliese 180 d is an exoplanet located approximately 39.96 light-years away from Earth. It is classified as a massive gas giant, with a mass 7.56 times that of Jupiter. It has an orbital period of 106.341 Earth days. It orbits its host star at a distance of 0.31 AU."
     },
     {
@@ -2495,7 +2495,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 179 b.png",
+        "photo": "assets\\generated_images\\Gliese 179 b.png",
         "description": "Gliese 179 b is an exoplanet located approximately 40.31 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.82 times that of Jupiter. It has an orbital period of 2288.0 Earth days. It orbits its host star at a distance of 2.41 AU."
     },
     {
@@ -2512,7 +2512,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\LHS 1140 c.png",
+        "photo": "assets\\generated_images\\LHS 1140 c.png",
         "description": "LHS 1140 c is an exoplanet located approximately 40.67 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00569 times that of Jupiter and a radius 0.1144 times that of Jupiter. It has an orbital period of 3.777931 Earth days. It orbits its host star at a distance of 0.02675 AU. The planet has an estimated surface temperature of 438.0 K."
     },
     {
@@ -2529,7 +2529,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\LHS 1140 b.png",
+        "photo": "assets\\generated_images\\LHS 1140 b.png",
         "description": "LHS 1140 b is an exoplanet located approximately 40.7 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0209 times that of Jupiter and a radius 0.128 times that of Jupiter. It has an orbital period of 24.73712 Earth days. It orbits its host star at a distance of 0.0875 AU. The planet has an estimated surface temperature of 254.0 K."
     },
     {
@@ -2546,7 +2546,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 69830 d.png",
+        "photo": "assets\\generated_images\\HD 69830 d.png",
         "description": "HD 69830 d is an exoplanet located approximately 40.97 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.057 times that of Jupiter. It has an orbital period of 197.0 Earth days. It orbits its host star at a distance of 0.63 AU."
     },
     {
@@ -2563,7 +2563,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 69830 c.png",
+        "photo": "assets\\generated_images\\HD 69830 c.png",
         "description": "HD 69830 c is an exoplanet located approximately 40.97 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0371 times that of Jupiter. It has an orbital period of 31.56 Earth days. It orbits its host star at a distance of 0.186 AU."
     },
     {
@@ -2580,7 +2580,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 69830 b.png",
+        "photo": "assets\\generated_images\\HD 69830 b.png",
         "description": "HD 69830 b is an exoplanet located approximately 40.97 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0321 times that of Jupiter. It has an orbital period of 8.667 Earth days. It orbits its host star at a distance of 0.0785 AU."
     },
     {
@@ -2597,7 +2597,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\VHS 1256-1257 b.png",
+        "photo": "assets\\generated_images\\VHS 1256-1257 b.png",
         "description": "VHS 1256-1257 b is an exoplanet located approximately 41.0 light-years away from Earth. It is classified as a massive gas giant, with a mass 11.2 times that of Jupiter. It orbits its host star at a distance of 102.0 AU."
     },
     {
@@ -2614,7 +2614,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\55 Cancri c.png",
+        "photo": "assets\\generated_images\\55 Cancri c.png",
         "description": "55 Cancri c is an exoplanet located approximately 41.06 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.1714 times that of Jupiter. It has an orbital period of 44.4175 Earth days. It orbits its host star at a distance of 0.241376 AU."
     },
     {
@@ -2631,7 +2631,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\55 Cancri b.png",
+        "photo": "assets\\generated_images\\55 Cancri b.png",
         "description": "55 Cancri b is an exoplanet located approximately 41.06 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.8306 times that of Jupiter. It has an orbital period of 14.65152 Earth days. It orbits its host star at a distance of 0.115227 AU. The planet has an estimated surface temperature of 700.0 K."
     },
     {
@@ -2648,7 +2648,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\55 Cancri e.png",
+        "photo": "assets\\generated_images\\55 Cancri e.png",
         "description": "55 Cancri e is an exoplanet located approximately 41.06 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.02542 times that of Jupiter and a radius 0.17 times that of Jupiter. It has an orbital period of 0.736539 Earth days. It orbits its host star at a distance of 0.01544 AU. The planet has an estimated surface temperature of 1958.0 K. This makes it a scorching hot world."
     },
     {
@@ -2665,7 +2665,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\55 Cancri f.png",
+        "photo": "assets\\generated_images\\55 Cancri f.png",
         "description": "55 Cancri f is an exoplanet located approximately 41.06 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.141 times that of Jupiter. It has an orbital period of 262.0 Earth days. It orbits its host star at a distance of 0.788 AU."
     },
     {
@@ -2682,7 +2682,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\55 Cancri d.png",
+        "photo": "assets\\generated_images\\55 Cancri d.png",
         "description": "55 Cancri d is an exoplanet located approximately 41.06 light-years away from Earth. It is classified as a massive gas giant, with a mass 3.878 times that of Jupiter. It has an orbital period of 4825.0 Earth days. It orbits its host star at a distance of 5.503 AU."
     },
     {
@@ -2699,7 +2699,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1132 c.png",
+        "photo": "assets\\generated_images\\Gliese 1132 c.png",
         "description": "Gliese 1132 c is an exoplanet located approximately 41.153 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.00831 times that of Jupiter. It has an orbital period of 8.929 Earth days. It orbits its host star at a distance of 0.0476 AU. The planet has an estimated surface temperature of 300.0 K. This temperature could potentially allow for liquid water."
     },
     {
@@ -2716,7 +2716,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 422 b.png",
+        "photo": "assets\\generated_images\\Gliese 422 b.png",
         "description": "Gliese 422 b is an exoplanet located approximately 41.32 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0311 times that of Jupiter. It has an orbital period of 26.161 Earth days. It orbits its host star at a distance of 0.119 AU."
     },
     {
@@ -2733,7 +2733,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 190007 b.png",
+        "photo": "assets\\generated_images\\HD 190007 b.png",
         "description": "HD 190007 b is an exoplanet located approximately 41.47 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.052 times that of Jupiter. It has an orbital period of 11.72 Earth days."
     },
     {
@@ -2750,7 +2750,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 40307 g.png",
+        "photo": "assets\\generated_images\\HD 40307 g.png",
         "description": "HD 40307 g is an exoplanet located approximately 41.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0223 times that of Jupiter. It has an orbital period of 197.8 Earth days. It orbits its host star at a distance of 0.6 AU."
     },
     {
@@ -2767,7 +2767,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 40307 e.png",
+        "photo": "assets\\generated_images\\HD 40307 e.png",
         "description": "HD 40307 e is an exoplanet located approximately 41.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.011 times that of Jupiter. It has an orbital period of 34.62 Earth days. It orbits its host star at a distance of 0.1886 AU."
     },
     {
@@ -2784,7 +2784,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 40307 f.png",
+        "photo": "assets\\generated_images\\HD 40307 f.png",
         "description": "HD 40307 f is an exoplanet located approximately 41.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0164 times that of Jupiter. It has an orbital period of 51.76 Earth days. It orbits its host star at a distance of 0.247 AU."
     },
     {
@@ -2801,7 +2801,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 95089 c.png",
+        "photo": "assets\\generated_images\\HD 95089 c.png",
         "description": "HD 95089 c is an exoplanet located approximately 42.1 light-years away from Earth. It is classified as a massive gas giant, with a mass 3.97 times that of Jupiter. It has an orbital period of 1860.0 Earth days."
     },
     {
@@ -2818,7 +2818,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 147513 b.png",
+        "photo": "assets\\generated_images\\HD 147513 b.png",
         "description": "HD 147513 b is an exoplanet located approximately 42.11 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.21 times that of Jupiter. It has an orbital period of 528.4 Earth days. It orbits its host star at a distance of 1.32 AU."
     },
     {
@@ -2835,7 +2835,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 40307 b.png",
+        "photo": "assets\\generated_images\\HD 40307 b.png",
         "description": "HD 40307 b is an exoplanet located approximately 42.21 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0126 times that of Jupiter. It has an orbital period of 4.3123 Earth days. It orbits its host star at a distance of 0.0468 AU. The planet has an estimated surface temperature of 910.0 K."
     },
     {
@@ -2852,7 +2852,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 40307 d.png",
+        "photo": "assets\\generated_images\\HD 40307 d.png",
         "description": "HD 40307 d is an exoplanet located approximately 42.21 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0299 times that of Jupiter. It has an orbital period of 20.432 Earth days. It orbits its host star at a distance of 0.1321 AU. The planet has an estimated surface temperature of 541.0 K."
     },
     {
@@ -2869,7 +2869,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 40307 c.png",
+        "photo": "assets\\generated_images\\HD 40307 c.png",
         "description": "HD 40307 c is an exoplanet located approximately 42.21 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0208 times that of Jupiter. It has an orbital period of 9.6184 Earth days. It orbits its host star at a distance of 0.0799 AU. The planet has an estimated surface temperature of 696.0 K."
     },
     {
@@ -2886,7 +2886,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 211970 b.png",
+        "photo": "assets\\generated_images\\HD 211970 b.png",
         "description": "HD 211970 b is an exoplanet located approximately 42.4 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0409 times that of Jupiter. It has an orbital period of 25.201 Earth days. It orbits its host star at a distance of 0.143 AU."
     },
     {
@@ -2903,7 +2903,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Upsilon Andromedae b.png",
+        "photo": "assets\\generated_images\\Upsilon Andromedae b.png",
         "description": "Upsilon Andromedae b is an exoplanet located approximately 43.74 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.6876 times that of Jupiter. It has an orbital period of 4.617033 Earth days. It orbits its host star at a distance of 0.059222 AU."
     },
     {
@@ -2920,7 +2920,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Upsilon Andromedae c.png",
+        "photo": "assets\\generated_images\\Upsilon Andromedae c.png",
         "description": "Upsilon Andromedae c is an exoplanet located approximately 43.74 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.981 times that of Jupiter. It has an orbital period of 241.258 Earth days. It orbits its host star at a distance of 0.827774 AU."
     },
     {
@@ -2937,7 +2937,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Upsilon Andromedae d.png",
+        "photo": "assets\\generated_images\\Upsilon Andromedae d.png",
         "description": "Upsilon Andromedae d is an exoplanet located approximately 43.74 light-years away from Earth. It is classified as a massive gas giant, with a mass 4.132 times that of Jupiter. It has an orbital period of 1276.46 Earth days. It orbits its host star at a distance of 2.51329 AU."
     },
     {
@@ -2954,7 +2954,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gamma Cephei Ab.png",
+        "photo": "assets\\generated_images\\Gamma Cephei Ab.png",
         "description": "Gamma Cephei Ab is an exoplanet located approximately 44.16 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.85 times that of Jupiter. It has an orbital period of 903.3 Earth days. It orbits its host star at a distance of 2.05 AU."
     },
     {
@@ -2971,7 +2971,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 146 b.png",
+        "photo": "assets\\generated_images\\Gliese 146 b.png",
         "description": "Gliese 146 b is an exoplanet located approximately 44.37 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0175 times that of Jupiter. It has an orbital period of 5.09071 Earth days. It orbits its host star at a distance of 0.051 AU. The planet has an estimated surface temperature of 573.0 K."
     },
     {
@@ -2988,7 +2988,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 3779 b.png",
+        "photo": "assets\\generated_images\\Gliese 3779 b.png",
         "description": "Gliese 3779 b is an exoplanet located approximately 44.84 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.025 times that of Jupiter. It has an orbital period of 3.0232 Earth days. It orbits its host star at a distance of 0.026 AU."
     },
     {
@@ -3005,7 +3005,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\47 Ursae Majoris d.png",
+        "photo": "assets\\generated_images\\47 Ursae Majoris d.png",
         "description": "47 Ursae Majoris d is an exoplanet located approximately 45.01 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.64 times that of Jupiter. It has an orbital period of 14002.0 Earth days. It orbits its host star at a distance of 11.6 AU."
     },
     {
@@ -3022,7 +3022,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\47 Ursae Majoris c.png",
+        "photo": "assets\\generated_images\\47 Ursae Majoris c.png",
         "description": "47 Ursae Majoris c is an exoplanet located approximately 45.01 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.54 times that of Jupiter. It has an orbital period of 2391.0 Earth days. It orbits its host star at a distance of 3.6 AU."
     },
     {
@@ -3039,7 +3039,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\47 Ursae Majoris b.png",
+        "photo": "assets\\generated_images\\47 Ursae Majoris b.png",
         "description": "47 Ursae Majoris b is an exoplanet located approximately 45.02 light-years away from Earth. It is classified as a massive gas giant, with a mass 2.53 times that of Jupiter. It has an orbital period of 1078.0 Earth days. It orbits its host star at a distance of 2.1 AU."
     },
     {
@@ -3056,7 +3056,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 99706 c.png",
+        "photo": "assets\\generated_images\\HD 99706 c.png",
         "description": "HD 99706 c is an exoplanet located approximately 45.14 light-years away from Earth. It is classified as a massive gas giant, with a mass 5.69 times that of Jupiter. It has an orbital period of 1278.0 Earth days."
     },
     {
@@ -3073,7 +3073,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\TOI 540 b\u00a0[ja].png",
+        "photo": "assets\\generated_images\\TOI 540 b\u00a0[ja].png",
         "description": "TOI 540 b\u00a0[ja] is an exoplanet located approximately 45.67 light-years away from Earth. It is classified as a small, rocky planet, with a radius 0.081 times that of Jupiter. It has an orbital period of 1.239149 Earth days. It orbits its host star at a distance of 0.01223 AU. The planet has an estimated surface temperature of 611.0 K."
     },
     {
@@ -3090,7 +3090,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 480 b.png",
+        "photo": "assets\\generated_images\\Gliese 480 b.png",
         "description": "Gliese 480 b is an exoplanet located approximately 46.4 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.042 times that of Jupiter. It has an orbital period of 9.567 Earth days. It orbits its host star at a distance of 0.068 AU."
     },
     {
@@ -3107,7 +3107,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 685 b.png",
+        "photo": "assets\\generated_images\\Gliese 685 b.png",
         "description": "Gliese 685 b is an exoplanet located approximately 46.7102 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.028 times that of Jupiter. It has an orbital period of 24.16 Earth days. It orbits its host star at a distance of 0.1344 AU."
     },
     {
@@ -3124,7 +3124,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HIP 79431 b.png",
+        "photo": "assets\\generated_images\\HIP 79431 b.png",
         "description": "HIP 79431 b is an exoplanet located approximately 47.42 light-years away from Earth. It is classified as a massive gas giant, with a mass 2.1 times that of Jupiter. It has an orbital period of 111.7 Earth days. It orbits its host star at a distance of 0.36 AU."
     },
     {
@@ -3141,7 +3141,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 1214 b.png",
+        "photo": "assets\\generated_images\\Gliese 1214 b.png",
         "description": "Gliese 1214 b is an exoplanet located approximately 47.78 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0197 times that of Jupiter and a radius 0.254 times that of Jupiter. It has an orbital period of 1.580405 Earth days. It orbits its host star at a distance of 0.01411 AU. The planet has an estimated surface temperature of 547.0 K."
     },
     {
@@ -3158,7 +3158,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Nu2 Lupi c.png",
+        "photo": "assets\\generated_images\\Nu2 Lupi c.png",
         "description": "Nu2 Lupi c is an exoplanet located approximately 47.85 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0355 times that of Jupiter and a radius 0.233 times that of Jupiter. It has an orbital period of 27.5909 Earth days. It orbits its host star at a distance of 0.1729 AU."
     },
     {
@@ -3175,7 +3175,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Nu2 Lupi d.png",
+        "photo": "assets\\generated_images\\Nu2 Lupi d.png",
         "description": "Nu2 Lupi d is an exoplanet located approximately 47.85 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0278 times that of Jupiter and a radius 0.229 times that of Jupiter. It has an orbital period of 107.245 Earth days. It orbits its host star at a distance of 0.425 AU."
     },
     {
@@ -3192,7 +3192,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Nu2 Lupi b.png",
+        "photo": "assets\\generated_images\\Nu2 Lupi b.png",
         "description": "Nu2 Lupi b is an exoplanet located approximately 47.85 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0145 times that of Jupiter and a radius 0.132 times that of Jupiter. It has an orbital period of 11.57779 Earth days. It orbits its host star at a distance of 0.0969 AU."
     },
     {
@@ -3209,7 +3209,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\LHS 3844 b.png",
+        "photo": "assets\\generated_images\\LHS 3844 b.png",
         "description": "LHS 3844 b is an exoplanet located approximately 48.6 light-years away from Earth. It is classified as a small, rocky planet, with a radius 0.1162 times that of Jupiter. It has an orbital period of 0.462929 Earth days. It orbits its host star at a distance of 0.00622 AU. The planet has an estimated surface temperature of 805.0 K."
     },
     {
@@ -3226,7 +3226,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 378 b.png",
+        "photo": "assets\\generated_images\\Gliese 378 b.png",
         "description": "Gliese 378 b is an exoplanet located approximately 48.79 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.04097 times that of Jupiter. It has an orbital period of 3.822 Earth days. It orbits its host star at a distance of 0.082 AU."
     },
     {
@@ -3243,7 +3243,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 163 c.png",
+        "photo": "assets\\generated_images\\Gliese 163 c.png",
         "description": "Gliese 163 c is an exoplanet located approximately 48.8 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0214 times that of Jupiter. It has an orbital period of 25.63058 Earth days. It orbits its host star at a distance of 0.1254 AU."
     },
     {
@@ -3260,7 +3260,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 163 b.png",
+        "photo": "assets\\generated_images\\Gliese 163 b.png",
         "description": "Gliese 163 b is an exoplanet located approximately 48.8 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.03335 times that of Jupiter. It has an orbital period of 8.63182 Earth days. It orbits its host star at a distance of 0.0607 AU."
     },
     {
@@ -3277,7 +3277,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 163 d.png",
+        "photo": "assets\\generated_images\\Gliese 163 d.png",
         "description": "Gliese 163 d is an exoplanet located approximately 48.8 light-years away from Earth. It is classified as a gas dwarf, similar in mass to Neptune, with a mass 0.0925 times that of Jupiter. It has an orbital period of 603.95116 Earth days. It orbits its host star at a distance of 1.0304 AU."
     },
     {
@@ -3294,7 +3294,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 176051 b.png",
+        "photo": "assets\\generated_images\\HD 176051 b.png",
         "description": "HD 176051 b is an exoplanet located approximately 49.0 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.5 times that of Jupiter. It has an orbital period of 1016.0 Earth days. It orbits its host star at a distance of 1.76 AU."
     },
     {
@@ -3311,7 +3311,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 317 b.png",
+        "photo": "assets\\generated_images\\Gliese 317 b.png",
         "description": "Gliese 317 b is an exoplanet located approximately 49.25 light-years away from Earth. It is classified as a massive gas giant, with a mass 2.5 times that of Jupiter. It has an orbital period of 692.0 Earth days. It orbits its host star at a distance of 1.15 AU."
     },
     {
@@ -3328,7 +3328,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\Gliese 317 c.png",
+        "photo": "assets\\generated_images\\Gliese 317 c.png",
         "description": "Gliese 317 c is an exoplanet located approximately 49.25 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.54 times that of Jupiter. It has an orbital period of 5312.0 Earth days."
     },
     {
@@ -3345,7 +3345,7 @@
         "tags": [
             "exoplanet"
         ],
-        "photo": "src\\generated_images\\HD 238090 b.png",
+        "photo": "assets\\generated_images\\HD 238090 b.png",
         "description": "HD 238090 b is an exoplanet located approximately 49.68 light-years away from Earth. It is classified as a 'Super-Earth', with a mass 0.0217 times that of Jupiter. It has an orbital period of 13.671 Earth days. It orbits its host star at a distance of 0.0932 AU. The planet has an estimated surface temperature of 469.6 K."
     }
 ]

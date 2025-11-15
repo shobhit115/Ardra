@@ -1,0 +1,267 @@
+main {
+  padding: 2rem;
+  max-width: 1400px;
+  margin: 0 auto;
+}
+
+main h1 {
+  text-align: center;
+  margin-bottom: 2rem;
+  font-size: 2.5rem;
+}
+
+/* Controls Container */
+.controls-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 2rem;
+  justify-content: space-between;
+  align-items: center;
+  background: var(--bg-secondary);
+  padding: 1.5rem;
+  border-radius: 10px;
+  margin-bottom: 2rem;
+}
+
+.filter-section {
+  flex: 1;
+  min-width: 300px;
+}
+
+.filter-section label {
+  display: block;
+  margin-bottom: 0.5rem;
+  font-weight: 600;
+  color: var(--accent);
+}
+
+#tag-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.tag-chip {
+  background: var(--bg-primary);
+  color: var(--text-light);
+  border: 2px solid var(--accent);
+  padding: 0.5rem 1rem;
+  border-radius: 20px;
+  cursor: pointer;
+  transition: all 0.3s;
+  font-size: 0.9rem;
+  user-select: none;
+}
+
+.tag-chip:hover {
+  background: var(--accent);
+  transform: translateY(-2px);
+}
+
+.tag-chip.active {
+  background: var(--accent);
+  box-shadow: 0 4px 15px rgba(0, 173, 181, 0.5);
+}
+
+/* Sort Section */
+.sort-section {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.sort-section select {
+  padding: 0.6rem 1rem;
+  background: var(--bg-primary);
+  color: var(--text-light);
+  border: 2px solid var(--accent);
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+/* View Toggle */
+.view-toggle {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.view-toggle button {
+  padding: 0.6rem 1.2rem;
+  background: var(--bg-primary);
+  border: 2px solid var(--accent);
+  color: var(--text-light);
+  cursor: pointer;
+  transition: all 0.3s;
+}
+
+.view-toggle button.active {
+  background: var(--accent);
+}
+
+/* Results Count */
+#results-count {
+  text-align: center;
+  margin-bottom: 1.5rem;
+  color: var(--accent);
+  font-size: 1.1rem;
+  font-weight: 600;
+}
+
+/* Grid Layout (Default) */
+.grid-layout {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 2rem;
+}
+
+/* List Layout */
+.list-layout {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.list-layout .planet-card {
+  display: grid;
+  grid-template-columns: 250px 1fr;
+  gap: 1.5rem;
+  align-items: center;
+}
+
+.list-layout .planet-card img {
+  height: 200px;
+}
+
+/* Planet Card Styles */
+.planet-card {
+  background: var(--bg-secondary);
+  border-radius: 12px;
+  padding: 1.5rem;
+  cursor: pointer;
+  transition: all 0.3s;
+  position: relative;
+  overflow: hidden;
+}
+
+.planet-card::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(135deg, rgba(0,173,181,0.1), transparent);
+  opacity: 0;
+  transition: opacity 0.3s;
+}
+
+.planet-card:hover::before {
+  opacity: 1;
+}
+
+.planet-card:hover {
+  transform: translateY(-8px);
+  box-shadow: 0 15px 40px rgba(0, 173, 181, 0.4);
+}
+
+.planet-card img {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+  background: var(--bg-primary);
+}
+
+.planet-card h3 {
+  color: var(--accent);
+  margin-bottom: 0.8rem;
+  font-size: 1.3rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.planet-info {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.info-item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: #ccc;
+}
+
+.info-item strong {
+  color: var(--accent);
+}
+
+.planet-card p {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  margin-bottom: 1rem;
+  color: #ddd;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.planet-tags {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.4rem;
+  margin-bottom: 1rem;
+}
+
+.planet-tag {
+  background: rgba(0, 173, 181, 0.2);
+  color: var(--accent);
+  padding: 0.3rem 0.7rem;
+  border-radius: 12px;
+  font-size: 0.75rem;
+  border: 1px solid var(--accent);
+}
+
+.price {
+  display: block;
+  font-size: 1.4rem;
+  font-weight: bold;
+  color: var(--accent);
+  text-align: center;
+  padding: 0.8rem;
+  background: rgba(0, 173, 181, 0.1);
+  border-radius: 8px;
+  border: 2px solid var(--accent);
+}
+
+/* Responsive Design */
+@media (max-width: 768px) {
+  .controls-container {
+    flex-direction: column;
+    align-items: stretch;
+  }
+
+  .list-layout .planet-card {
+    grid-template-columns: 1fr;
+  }
+  
+  .grid-layout {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+}
+
+#particle-canvas {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+  background: radial-gradient(ellipse at bottom, #1B2735 0%, #090A0F 100%);
+}
