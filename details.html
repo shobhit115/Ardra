@@ -1,0 +1,457 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Product Details</title>
+    <style>
+        :root {
+            --bg-primary: #222831;
+            --bg-secondary: #393E46;
+            --accent: #00ADB5;
+            --text-light: #EEEEEE;
+        }
+
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-light);
+            line-height: 1.6;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background-color: var(--bg-secondary);
+            border-radius: 12px;
+            overflow: hidden;
+            box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+        }
+
+        .product-detail {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 40px;
+            padding: 40px;
+        }
+
+        .product-image {
+            position: relative;
+        }
+
+        .product-image img {
+            width: 100%;
+            height: auto;
+            border-radius: 8px;
+            object-fit: cover;
+            background-color: var(--bg-primary);
+        }
+
+        .tags {
+            display: flex;
+            flex-wrap: wrap;
+            gap: 8px;
+            margin-top: 15px;
+        }
+
+        .tag {
+            background-color: var(--accent);
+            color: var(--bg-primary);
+            padding: 6px 12px;
+            border-radius: 20px;
+            font-size: 12px;
+            font-weight: 600;
+            text-transform: uppercase;
+        }
+
+        .product-info h1 {
+            font-size: 2.5rem;
+            color: var(--text-light);
+            margin-bottom: 15px;
+        }
+
+        .price {
+            font-size: 2rem;
+            color: var(--accent);
+            font-weight: bold;
+            margin-bottom: 20px;
+        }
+
+        .description {
+            color: var(--text-light);
+            margin-bottom: 30px;
+            line-height: 1.8;
+            opacity: 0.9;
+        }
+
+        .specifications {
+            background-color: var(--bg-primary);
+            padding: 25px;
+            border-radius: 8px;
+            margin-bottom: 25px;
+        }
+
+        .specifications h2 {
+            color: var(--accent);
+            margin-bottom: 20px;
+            font-size: 1.5rem;
+        }
+
+        .spec-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 15px;
+        }
+
+        .spec-item {
+            display: flex;
+            flex-direction: column;
+            padding: 12px;
+            background-color: var(--bg-secondary);
+            border-radius: 6px;
+            border-left: 3px solid var(--accent);
+        }
+
+        .spec-label {
+            font-size: 0.85rem;
+            color: var(--accent);
+            text-transform: uppercase;
+            font-weight: 600;
+            margin-bottom: 5px;
+        }
+
+        .spec-value {
+            font-size: 1.1rem;
+            color: var(--text-light);
+            font-weight: 500;
+        }
+
+        .action-buttons {
+            display: flex;
+            gap: 15px;
+        }
+
+        .btn {
+            flex: 1;
+            padding: 15px 30px;
+            border: none;
+            border-radius: 8px;
+            font-size: 1rem;
+            font-weight: 600;
+            cursor: pointer;
+            transition: all 0.3s ease;
+        }
+
+        .btn-primary {
+            background-color: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        .btn-primary:hover {
+            background-color: #00c9d3;
+            transform: translateY(-2px);
+            box-shadow: 0 5px 15px rgba(0, 173, 181, 0.3);
+        }
+
+        .btn-secondary {
+            background-color: transparent;
+            color: var(--accent);
+            border: 2px solid var(--accent);
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--accent);
+            color: var(--bg-primary);
+        }
+
+        .loading {
+            text-align: center;
+            padding: 60px;
+            font-size: 1.2rem;
+            color: var(--accent);
+        }
+
+        .error {
+            text-align: center;
+            padding: 60px;
+            font-size: 1.2rem;
+            color: #ff6b6b;
+        }
+
+        @media (max-width: 768px) {
+            .product-detail {
+                grid-template-columns: 1fr;
+                padding: 20px;
+            }
+
+            .product-info h1 {
+                font-size: 1.8rem;
+            }
+
+            .spec-grid {
+                grid-template-columns: 1fr;
+            }
+
+            .action-buttons {
+                flex-direction: column;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div id="productContainer" class="loading">Loading product details...</div>
+    </div>
+
+    <script>
+        // Sample products data (replace this with your actual JSON file)
+        const productsData = [
+            {
+                "name": "Jupiter",
+                "mass": 1.0,
+                "radius": 1.0,
+                "period": 4331.0,
+                "semi_major_axis": 5.204,
+                "temperature": 165.0,
+                "distance_light_year": 8.8e-05,
+                "host_star_mass": 1.0,
+                "host_star_temperature": 6000.0,
+                "prize": 977192,
+                "tags": ["solar_system_planet"],
+                "photo": "src/planet_photos/Jupiter.webp",
+                "description": "Jupiter is a planet in our Solar System. located approximately 8.8e-05 light-years away from Earth. It is classified as a massive gas giant, with a mass 1.0 times that of Jupiter and a radius 1.0 times that of Jupiter. It has an orbital period of 4331.0 Earth days. It orbits its host star at a distance of 5.204 AU. The planet has an estimated surface temperature of 165.0 K. This indicates it is a deeply frozen world."
+            },
+            {
+                "name": "Saturn",
+                "mass": 0.299,
+                "radius": 0.843,
+                "period": 10747.0,
+                "semi_major_axis": 9.537,
+                "temperature": 134.0,
+                "distance_light_year": 0.00017,
+                "host_star_mass": 1.0,
+                "host_star_temperature": 6000.0,
+                "prize": 907092,
+                "tags": ["solar_system_planet"],
+                "photo": "src/planet_photos/Saturn.webp",
+                "description": "Saturn is a planet in our Solar System. located approximately 0.00017 light-years away from Earth. It is classified as a massive gas giant, with a mass 0.299 times that of Jupiter and a radius 0.843 times that of Jupiter. It has an orbital period of 10747.0 Earth days. It orbits its host star at a distance of 9.537 AU. The planet has an estimated surface temperature of 134.0 K. This indicates it is a deeply frozen world."
+            },
+            {
+                "name": "Earth",
+                "mass": 0.00315,
+                "radius": 0.0892,
+                "period": 365.2,
+                "semi_major_axis": 1.0,
+                "temperature": 288.0,
+                "distance_light_year": 0.0,
+                "host_star_mass": 1.0,
+                "host_star_temperature": 6000.0,
+                "prize": 877507,
+                "tags": ["solar_system_planet"],
+                "photo": "src/planet_photos/Earth.webp",
+                "description": "Earth is a planet in our Solar System.. It is classified as a 'Super-Earth', with a mass 0.00315 times that of Jupiter and a radius 0.0892 times that of Jupiter. It has an orbital period of 365.2 Earth days. It orbits its host star at a distance of 1.0 AU. The planet has an estimated surface temperature of 288.0 K. This temperature could potentially allow for liquid water."
+            },
+            {
+                "name": "Mars",
+                "mass": 0.000338,
+                "radius": 0.0488,
+                "period": 687.0,
+                "semi_major_axis": 1.542,
+                "temperature": 210.0,
+                "distance_light_year": 3.7e-05,
+                "host_star_mass": 1.0,
+                "host_star_temperature": 6000.0,
+                "prize": 877226,
+                "tags": ["solar_system_planet"],
+                "photo": "src/planet_photos/Mars.webp",
+                "description": "Mars is a planet in our Solar System. located approximately 3.7e-05 light-years away from Earth. It is classified as a small, rocky planet, potentially lighter than Earth, with a mass 0.000338 times that of Jupiter and a radius 0.0488 times that of Jupiter. It has an orbital period of 687.0 Earth days. It orbits its host star at a distance of 1.542 AU. The planet has an estimated surface temperature of 210.0 K."
+            }
+        ];
+
+        function getProductNameFromURL() {
+            const urlParams = new URLSearchParams(window.location.search);
+            return urlParams.get('name') || urlParams.get('product') || urlParams.get('id');
+        }
+
+        function formatPrice(price) {
+            return new Intl.NumberFormat('en-US', {
+                style: 'currency',
+                currency: 'USD',
+                minimumFractionDigits: 0
+            }).format(price);
+        }
+
+        function renderProduct(product) {
+            const container = document.getElementById('productContainer');
+            
+            container.innerHTML = `
+                <div class="product-detail">
+                    <div class="product-image">
+                        <img src="${product.photo}" alt="${product.name}" onerror="this.src='https://via.placeholder.com/500x500?text=${product.name}'">
+                        <div class="tags">
+                            ${product.tags.map(tag => `<span class="tag">${tag.replace(/_/g, ' ')}</span>`).join('')}
+                        </div>
+                    </div>
+                    
+                    <div class="product-info">
+                        <h1>${product.name}</h1>
+                        <div class="price">${formatPrice(product.prize)}</div>
+                        <p class="description">${product.description}</p>
+                        
+                        <div class="specifications">
+                            <h2>Technical Specifications</h2>
+                            <div class="spec-grid">
+                                <div class="spec-item">
+                                    <span class="spec-label">Mass (Jupiter Mass)</span>
+                                    <span class="spec-value">${product.mass} MJ</span>
+                                </div>
+                                <div class="spec-item">
+                                    <span class="spec-label">Radius (Jupiter Radius)</span>
+                                    <span class="spec-value">${product.radius} RJ</span>
+                                </div>
+                                <div class="spec-item">
+                                    <span class="spec-label">Orbital Period</span>
+                                    <span class="spec-value">${product.period.toLocaleString()} days</span>
+                                </div>
+                                <div class="spec-item">
+                                    <span class="spec-label">Semi-Major Axis</span>
+                                    <span class="spec-value">${product.semi_major_axis} AU</span>
+                                </div>
+                                <div class="spec-item">
+                                    <span class="spec-label">Temperature</span>
+                                    <span class="spec-value">${product.temperature} K</span>
+                                </div>
+                                <div class="spec-item">
+                                    <span class="spec-label">Distance</span>
+                                    <span class="spec-value">${product.distance_light_year.toExponential(2)} LY</span>
+                                </div>
+                                <div class="spec-item">
+                                    <span class="spec-label">Host Star Mass</span>
+                                    <span class="spec-value">${product.host_star_mass} M☉</span>
+                                </div>
+                                <div class="spec-item">
+                                    <span class="spec-label">Star Temperature</span>
+                                    <span class="spec-value">${product.host_star_temperature.toLocaleString()} K</span>
+                                </div>
+                            </div>
+                        </div>
+                        
+                        <div class="action-buttons">
+                            <button class="btn btn-primary" onclick="addToCart('${product.name}')">Add to Cart</button>
+                            <button class="btn btn-secondary" onclick="addToWishlist('${product.name}')">Add to Wishlist</button>
+                        </div>
+                    </div>
+                </div>
+            `;
+        }
+
+        function findProductByName(products, name) {
+            return products.find(p => p.name.toLowerCase() === name.toLowerCase());
+        }
+
+        function addToCart(productName) {
+            alert(`Product ${productName} added to cart!`);
+        }
+
+        function addToWishlist(productName) {
+            alert(`Product ${productName} added to wishlist!`);
+        }
+
+        // Load product from local data
+        function loadProductFromLocalData(productName) {
+            const product = findProductByName(productsData, productName);
+            
+            if (product) {
+                renderProduct(product);
+            } else {
+                document.getElementById('productContainer').innerHTML = 
+                    `<div class="error">Product "${productName}" not found</div>`;
+            }
+        }
+
+        // Load products from external JSON file and display specific product
+        async function loadProductFromJSON(jsonUrl, productName) {
+            try {
+                console.log('Fetching products from:', jsonUrl);
+                console.log('Looking for product:', productName);
+                
+                const response = await fetch(jsonUrl);
+                
+                if (!response.ok) {
+                    throw new Error(`HTTP error! status: ${response.status}`);
+                }
+                
+                const products = await response.json();
+                console.log('Loaded products:', products);
+                console.log('Number of products:', products.length);
+                
+                const product = findProductByName(products, productName);
+                console.log('Found product:', product);
+                
+                if (product) {
+                    renderProduct(product);
+                } else {
+                    const availableNames = products.map(p => p.name).join(', ');
+                    document.getElementById('productContainer').innerHTML = 
+                        `<div class="error">
+                            <h2>Product "${productName}" not found</h2>
+                            <p>Available products: ${availableNames}</p>
+                        </div>`;
+                }
+            } catch (error) {
+                document.getElementById('productContainer').innerHTML = 
+                    `<div class="error">
+                        <h2>Error loading product details</h2>
+                        <p>${error.message}</p>
+                        <p>Make sure planet.json is in the same directory and you're using a local server.</p>
+                    </div>`;
+                console.error('Error loading product:', error);
+            }
+        }
+
+        // Initialize on page load
+        window.addEventListener('DOMContentLoaded', () => {
+            // Get product name from URL parameter
+            const productName = getProductNameFromURL();
+            
+            console.log('URL Parameters:', window.location.search);
+            console.log('Product name from URL:', productName);
+            
+            if (productName) {
+                // Load from external JSON file
+                loadProductFromJSON('planet.json', productName);
+            } else {
+                // If no name provided, load first product from JSON
+                console.log('No product name specified, loading first product');
+                loadFirstProductFromJSON('planet.json');
+            }
+        });
+
+        // Load first product from JSON file when no name is specified
+        async function loadFirstProductFromJSON(jsonUrl) {
+            try {
+                const response = await fetch(jsonUrl);
+                const products = await response.json();
+                
+                if (products && products.length > 0) {
+                    renderProduct(products[0]);
+                } else {
+                    document.getElementById('productContainer').innerHTML = 
+                        '<div class="error">No products found in JSON file</div>';
+                }
+            } catch (error) {
+                document.getElementById('productContainer').innerHTML = 
+                    '<div class="error">Error loading products. Make sure planet.json exists in the same directory.</div>';
+                console.error('Error loading products:', error);
+            }
+        }
+    </script>
+</body>
+</html>

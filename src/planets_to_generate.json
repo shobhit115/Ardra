@@ -1,0 +1,754 @@
+[
+    {
+        "name": "Proxima Centauri b",
+        "prompt": "An artistic concept of the exoplanet Proxima Centauri b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Proxima Centauri c",
+        "prompt": "An artistic concept of the exoplanet Proxima Centauri c. It is a mysterious alien world. It is a deeply frozen, icy planet, far from its star. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Barnard's Star b",
+        "prompt": "An artistic concept of the exoplanet Barnard's Star b. It is a small, Earth-sized rocky planet. It is a deeply frozen, icy planet, far from its star. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 411 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 411 b. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Lalande 21185 c",
+        "prompt": "An artistic concept of the exoplanet Lalande 21185 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Epsilon Eridani b",
+        "prompt": "An artistic concept of the exoplanet Epsilon Eridani b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Lacaille 9352 b",
+        "prompt": "An artistic concept of the exoplanet Lacaille 9352 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Lacaille 9352 c",
+        "prompt": "An artistic concept of the exoplanet Lacaille 9352 c. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Ross 128 b",
+        "prompt": "An artistic concept of the exoplanet Ross 128 b. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "GJ 725 B b",
+        "prompt": "An artistic concept of the exoplanet GJ 725 B b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 15 Ac",
+        "prompt": "An artistic concept of the exoplanet Gliese 15 Ac. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 15 Ab",
+        "prompt": "An artistic concept of the exoplanet Gliese 15 Ab. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Epsilon Indi Ab",
+        "prompt": "An artistic concept of the exoplanet Epsilon Indi Ab. It is a mysterious alien world. It is a deeply frozen, icy planet, far from its star. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1061 d",
+        "prompt": "An artistic concept of the exoplanet Gliese 1061 d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1061 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 1061 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1061 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 1061 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "YZ Ceti b",
+        "prompt": "An artistic concept of the exoplanet YZ Ceti b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 273 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 273 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Tau Ceti g",
+        "prompt": "An artistic concept of the exoplanet Tau Ceti g. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Tau Ceti h",
+        "prompt": "An artistic concept of the exoplanet Tau Ceti h. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Tau Ceti f",
+        "prompt": "An artistic concept of the exoplanet Tau Ceti f. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 273 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 273 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "YZ Ceti d",
+        "prompt": "An artistic concept of the exoplanet YZ Ceti d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "YZ Ceti c",
+        "prompt": "An artistic concept of the exoplanet YZ Ceti c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Tau Ceti e",
+        "prompt": "An artistic concept of the exoplanet Tau Ceti e. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Teegarden b",
+        "prompt": "An artistic concept of the exoplanet Teegarden b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Teegarden c",
+        "prompt": "An artistic concept of the exoplanet Teegarden c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Kapteyn b",
+        "prompt": "An artistic concept of the exoplanet Kapteyn b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Kapteyn c",
+        "prompt": "An artistic concept of the exoplanet Kapteyn c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Wolf 1061c",
+        "prompt": "An artistic concept of the exoplanet Wolf 1061c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Wolf 1061d",
+        "prompt": "An artistic concept of the exoplanet Wolf 1061d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Wolf 1061b",
+        "prompt": "An artistic concept of the exoplanet Wolf 1061b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "L 1159-16 c",
+        "prompt": "An artistic concept of the exoplanet L 1159-16 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "L 1159-16 b",
+        "prompt": "An artistic concept of the exoplanet L 1159-16 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 687 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 687 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 687 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 687 c. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 674 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 674 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 876 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 876 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 876 d",
+        "prompt": "An artistic concept of the exoplanet Gliese 876 d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 876 e",
+        "prompt": "An artistic concept of the exoplanet Gliese 876 e. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 876 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 876 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 832 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 832 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 832 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 832 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 682 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 682 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 682 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 682 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "40 Eridani Ab",
+        "prompt": "An artistic concept of the exoplanet 40 Eridani Ab. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 3323 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 3323 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 3323 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 3323 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 251 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 251 b. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 229 Ab",
+        "prompt": "An artistic concept of the exoplanet Gliese 229 Ab. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 229 Ac",
+        "prompt": "An artistic concept of the exoplanet Gliese 229 Ac. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 180617 b",
+        "prompt": "An artistic concept of the exoplanet HD 180617 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "82 G. Eridani b",
+        "prompt": "An artistic concept of the exoplanet 82 G. Eridani b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "82 G. Eridani d",
+        "prompt": "An artistic concept of the exoplanet 82 G. Eridani d. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "82 G. Eridani c",
+        "prompt": "An artistic concept of the exoplanet 82 G. Eridani c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 20794 e",
+        "prompt": "An artistic concept of the exoplanet HD 20794 e. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 581 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 581 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 581 e",
+        "prompt": "An artistic concept of the exoplanet Gliese 581 e. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 581 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 581 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 79211 b",
+        "prompt": "An artistic concept of the exoplanet HD 79211 b. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 625 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 625 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 219134 g",
+        "prompt": "An artistic concept of the exoplanet HD 219134 g. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 219134 d",
+        "prompt": "An artistic concept of the exoplanet HD 219134 d. It is a small, Earth-sized rocky planet.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 219134 c",
+        "prompt": "An artistic concept of the exoplanet HD 219134 c. It is a small, Earth-sized rocky planet.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 219134 b",
+        "prompt": "An artistic concept of the exoplanet HD 219134 b. It is a small, Earth-sized rocky planet.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 219134 f",
+        "prompt": "An artistic concept of the exoplanet HD 219134 f. It is a small, Earth-sized rocky planet.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 219134 h",
+        "prompt": "An artistic concept of the exoplanet HD 219134 h. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 667 Cb",
+        "prompt": "An artistic concept of the exoplanet Gliese 667 Cb. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 667 Cc",
+        "prompt": "An artistic concept of the exoplanet Gliese 667 Cc. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "LTT 1445 Ab",
+        "prompt": "An artistic concept of the exoplanet LTT 1445 Ab. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "LTT 1445 Ac",
+        "prompt": "An artistic concept of the exoplanet LTT 1445 Ac. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 393 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 393 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1151b",
+        "prompt": "An artistic concept of the exoplanet Gliese 1151b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 486 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 486 b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 686 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 686 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "61 Virginis c",
+        "prompt": "An artistic concept of the exoplanet 61 Virginis c. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "61 Virginis b",
+        "prompt": "An artistic concept of the exoplanet 61 Virginis b. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "61 Virginis d",
+        "prompt": "An artistic concept of the exoplanet 61 Virginis d. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "CD Ceti b\u00a0[es]",
+        "prompt": "An artistic concept of the exoplanet CD Ceti b\u00a0[es]. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 192310 b",
+        "prompt": "An artistic concept of the exoplanet HD 192310 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 785 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 785 b. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 785 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 785 c. It is a mysterious alien world. It is a deeply frozen, icy planet, far from its star.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 192310 c",
+        "prompt": "An artistic concept of the exoplanet HD 192310 c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 849 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 849 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "WISE 1217+1626 B",
+        "prompt": "An artistic concept of the exoplanet WISE 1217+1626 B. It is a massive gas giant, similar to Jupiter. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 433 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 433 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 433 d",
+        "prompt": "An artistic concept of the exoplanet Gliese 433 d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 433 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 433 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 102365 b",
+        "prompt": "An artistic concept of the exoplanet HD 102365 b. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 367b",
+        "prompt": "An artistic concept of the exoplanet Gliese 367b. It is a small, Earth-sized rocky planet. It is a scorching hot, molten world, close to its star. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 357 d",
+        "prompt": "An artistic concept of the exoplanet Gliese 357 d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 357 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 357 b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 357 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 357 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 176 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 176 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 3512 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 3512 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "AU Microscopii c",
+        "prompt": "An artistic concept of the exoplanet AU Microscopii c. It is a super-Earth or mini-Neptune.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 436 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 436 b. It is a super-Earth or mini-Neptune. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 49 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 49 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "AU Microscopii b",
+        "prompt": "An artistic concept of the exoplanet AU Microscopii b. It is a super-Earth or mini-Neptune. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 536 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 536 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1265 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 1265 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Pollux b",
+        "prompt": "An artistic concept of the exoplanet Pollux b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 649 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 649 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HIP 48714 b",
+        "prompt": "An artistic concept of the exoplanet HIP 48714 b. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Luyten 98-59 e",
+        "prompt": "An artistic concept of the exoplanet Luyten 98-59 e. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Luyten 98-59 f",
+        "prompt": "An artistic concept of the exoplanet Luyten 98-59 f. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TOI-175b",
+        "prompt": "An artistic concept of the exoplanet TOI-175b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Luyten 98-59 d",
+        "prompt": "An artistic concept of the exoplanet Luyten 98-59 d. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Luyten 98-59 c",
+        "prompt": "An artistic concept of the exoplanet Luyten 98-59 c. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Luyten 98-59 b",
+        "prompt": "An artistic concept of the exoplanet Luyten 98-59 b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TVLM 513-46546 b",
+        "prompt": "An artistic concept of the exoplanet TVLM 513-46546 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 147379 b",
+        "prompt": "An artistic concept of the exoplanet HD 147379 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 86 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 86 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "COCONUTS-2b",
+        "prompt": "An artistic concept of the exoplanet COCONUTS-2b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1148 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 1148 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1148 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 1148 c. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 740 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 740 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "54 Piscium b",
+        "prompt": "An artistic concept of the exoplanet 54 Piscium b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 85512 b",
+        "prompt": "An artistic concept of the exoplanet HD 85512 b. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 33142 c",
+        "prompt": "An artistic concept of the exoplanet HD 33142 c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Ross 458 c",
+        "prompt": "An artistic concept of the exoplanet Ross 458 c. It is a massive gas giant, similar to Jupiter. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 116029 c",
+        "prompt": "An artistic concept of the exoplanet HD 116029 c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gl 414 A c",
+        "prompt": "An artistic concept of the exoplanet Gl 414 A c. It is a super-Earth or mini-Neptune. It is a deeply frozen, icy planet, far from its star.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gl 414 A b",
+        "prompt": "An artistic concept of the exoplanet Gl 414 A b. It is a super-Earth or mini-Neptune. It is a temperate planet, with a climate that could allow for liquid water.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Lambda Serpentis b",
+        "prompt": "An artistic concept of the exoplanet Lambda Serpentis b. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 96 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 96 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 180 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 180 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 180 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 180 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TRAPPIST-1c",
+        "prompt": "An artistic concept of the exoplanet TRAPPIST-1c. It is a small, Earth-sized rocky planet. It is a temperate planet, with a climate that could allow for liquid water. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TRAPPIST-1b",
+        "prompt": "An artistic concept of the exoplanet TRAPPIST-1b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TRAPPIST-1e",
+        "prompt": "An artistic concept of the exoplanet TRAPPIST-1e. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TRAPPIST-1d",
+        "prompt": "An artistic concept of the exoplanet TRAPPIST-1d. It is a small, Earth-sized rocky planet. It is a temperate planet, with a climate that could allow for liquid water. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TRAPPIST-1g",
+        "prompt": "An artistic concept of the exoplanet TRAPPIST-1g. It is a small, Earth-sized rocky planet. It is a deeply frozen, icy planet, far from its star. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TRAPPIST-1f",
+        "prompt": "An artistic concept of the exoplanet TRAPPIST-1f. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TRAPPIST-1h",
+        "prompt": "An artistic concept of the exoplanet TRAPPIST-1h. It is a small, Earth-sized rocky planet. It is a deeply frozen, icy planet, far from its star. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1132 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 1132 b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 180 d",
+        "prompt": "An artistic concept of the exoplanet Gliese 180 d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 179 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 179 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "LHS 1140 c",
+        "prompt": "An artistic concept of the exoplanet LHS 1140 c. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "LHS 1140 b",
+        "prompt": "An artistic concept of the exoplanet LHS 1140 b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 69830 d",
+        "prompt": "An artistic concept of the exoplanet HD 69830 d. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 69830 c",
+        "prompt": "An artistic concept of the exoplanet HD 69830 c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 69830 b",
+        "prompt": "An artistic concept of the exoplanet HD 69830 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "VHS 1256-1257 b",
+        "prompt": "An artistic concept of the exoplanet VHS 1256-1257 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "55 Cancri c",
+        "prompt": "An artistic concept of the exoplanet 55 Cancri c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "55 Cancri b",
+        "prompt": "An artistic concept of the exoplanet 55 Cancri b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "55 Cancri e",
+        "prompt": "An artistic concept of the exoplanet 55 Cancri e. It is a small, Earth-sized rocky planet. It is a scorching hot, molten world, close to its star.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "55 Cancri f",
+        "prompt": "An artistic concept of the exoplanet 55 Cancri f. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "55 Cancri d",
+        "prompt": "An artistic concept of the exoplanet 55 Cancri d. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1132 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 1132 c. It is a mysterious alien world. It is a temperate planet, with a climate that could allow for liquid water. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 422 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 422 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 190007 b",
+        "prompt": "An artistic concept of the exoplanet HD 190007 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 40307 g",
+        "prompt": "An artistic concept of the exoplanet HD 40307 g. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 40307 e",
+        "prompt": "An artistic concept of the exoplanet HD 40307 e. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 40307 f",
+        "prompt": "An artistic concept of the exoplanet HD 40307 f. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 95089 c",
+        "prompt": "An artistic concept of the exoplanet HD 95089 c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 147513 b",
+        "prompt": "An artistic concept of the exoplanet HD 147513 b. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 40307 b",
+        "prompt": "An artistic concept of the exoplanet HD 40307 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 40307 d",
+        "prompt": "An artistic concept of the exoplanet HD 40307 d. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 40307 c",
+        "prompt": "An artistic concept of the exoplanet HD 40307 c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 211970 b",
+        "prompt": "An artistic concept of the exoplanet HD 211970 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Upsilon Andromedae b",
+        "prompt": "An artistic concept of the exoplanet Upsilon Andromedae b. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Upsilon Andromedae c",
+        "prompt": "An artistic concept of the exoplanet Upsilon Andromedae c. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Upsilon Andromedae d",
+        "prompt": "An artistic concept of the exoplanet Upsilon Andromedae d. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gamma Cephei Ab",
+        "prompt": "An artistic concept of the exoplanet Gamma Cephei Ab. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 146 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 146 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 3779 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 3779 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "47 Ursae Majoris d",
+        "prompt": "An artistic concept of the exoplanet 47 Ursae Majoris d. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "47 Ursae Majoris c",
+        "prompt": "An artistic concept of the exoplanet 47 Ursae Majoris c. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "47 Ursae Majoris b",
+        "prompt": "An artistic concept of the exoplanet 47 Ursae Majoris b. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 99706 c",
+        "prompt": "An artistic concept of the exoplanet HD 99706 c. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "TOI 540 b\u00a0[ja]",
+        "prompt": "An artistic concept of the exoplanet TOI 540 b\u00a0[ja]. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 480 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 480 b. It is a mysterious alien world. It orbits a distant star in deep space. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 685 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 685 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HIP 79431 b",
+        "prompt": "An artistic concept of the exoplanet HIP 79431 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 1214 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 1214 b. It is a super-Earth or mini-Neptune. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Nu2 Lupi c",
+        "prompt": "An artistic concept of the exoplanet Nu2 Lupi c. It is a super-Earth or mini-Neptune. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Nu2 Lupi d",
+        "prompt": "An artistic concept of the exoplanet Nu2 Lupi d. It is a super-Earth or mini-Neptune. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Nu2 Lupi b",
+        "prompt": "An artistic concept of the exoplanet Nu2 Lupi b. It is a small, Earth-sized rocky planet. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "LHS 3844 b",
+        "prompt": "An artistic concept of the exoplanet LHS 3844 b. It is a small, Earth-sized rocky planet. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 378 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 378 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 163 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 163 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 163 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 163 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 163 d",
+        "prompt": "An artistic concept of the exoplanet Gliese 163 d. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 176051 b",
+        "prompt": "An artistic concept of the exoplanet HD 176051 b. It is a mysterious alien world. It orbits a bright, yellow, sun-like star. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 317 b",
+        "prompt": "An artistic concept of the exoplanet Gliese 317 b. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "Gliese 317 c",
+        "prompt": "An artistic concept of the exoplanet Gliese 317 c. It is a mysterious alien world. It orbits a dim, red dwarf star, bathing the planet in red light. Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    },
+    {
+        "name": "HD 238090 b",
+        "prompt": "An artistic concept of the exoplanet HD 238090 b. It is a mysterious alien world.  Photorealistic, 4k, digital art, space-view, cosmic, science-fiction."
+    }
+]
